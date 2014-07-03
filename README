@@ -1,0 +1,14 @@
+HashTable Mask Dumper
+=====================
+
+This extension is a sample used in my "PHP Under the Hood" talk. The
+purpose is to demonstrate engine internals. This is nothing anybody should
+use for anything but educational purpose.
+
+Be aware that the results shown by the sample script htmask.php are "wrong".
+The sample works on a copy of the function table. This might have a
+different table mask.
+
+A video recording of this talk can be watched on
+http://www.youtube.com/watch?v=bxxIXPc9IR8
+
