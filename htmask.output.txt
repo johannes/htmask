@@ -1,0 +1,6454 @@
+Array
+(
+    [443] => Array
+        (
+            [0] => zend_version
+        )
+
+    [1836] => Array
+        (
+            [0] => func_num_args
+        )
+
+    [1897] => Array
+        (
+            [0] => func_get_arg
+        )
+
+    [860] => Array
+        (
+            [0] => func_get_args
+        )
+
+    [1853] => Array
+        (
+            [0] => strlen
+        )
+
+    [542] => Array
+        (
+            [0] => strcmp
+            [1] => array_udiff_uassoc
+        )
+
+    [332] => Array
+        (
+            [0] => strncmp
+            [1] => date_timezone_get
+            [2] => posix_getgrnam
+            [3] => mysqli_get_charset
+        )
+
+    [1146] => Array
+        (
+            [0] => strcasecmp
+            [1] => getmyinode
+            [2] => mcrypt_enc_get_key_size
+        )
+
+    [680] => Array
+        (
+            [0] => strncasecmp
+        )
+
+    [1622] => Array
+        (
+            [0] => each
+            [1] => fscanf
+        )
+
+    [264] => Array
+        (
+            [0] => error_reporting
+        )
+
+    [112] => Array
+        (
+            [0] => define
+        )
+
+    [852] => Array
+        (
+            [0] => defined
+            [1] => iterator_apply
+        )
+
+    [2042] => Array
+        (
+            [0] => get_class
+            [1] => pcntl_wait
+        )
+
+    [1118] => Array
+        (
+            [0] => get_called_class
+        )
+
+    [1699] => Array
+        (
+            [0] => get_parent_class
+            [1] => mb_http_output
+            [2] => posix_kill
+            [3] => rmdir
+        )
+
+    [805] => Array
+        (
+            [0] => method_exists
+            [1] => feof
+        )
+
+    [1321] => Array
+        (
+            [0] => property_exists
+            [1] => ftp_ssl_connect
+        )
+
+    [1466] => Array
+        (
+            [0] => class_exists
+        )
+
+    [1909] => Array
+        (
+            [0] => interface_exists
+            [1] => openssl_csr_get_public_key
+        )
+
+    [1834] => Array
+        (
+            [0] => function_exists
+        )
+
+    [196] => Array
+        (
+            [0] => class_alias
+            [1] => mysqli_get_cache_stats
+        )
+
+    [798] => Array
+        (
+            [0] => get_included_files
+            [1] => mb_substr_count
+            [2] => mb_get_info
+            [3] => imagearc
+        )
+
+    [1655] => Array
+        (
+            [0] => get_required_files
+            [1] => posix_getgroups
+            [2] => socket_send
+        )
+
+    [1972] => Array
+        (
+            [0] => is_subclass_of
+        )
+
+    [1345] => Array
+        (
+            [0] => is_a
+        )
+
+    [2037] => Array
+        (
+            [0] => get_class_vars
+        )
+
+    [182] => Array
+        (
+            [0] => get_object_vars
+        )
+
+    [237] => Array
+        (
+            [0] => get_class_methods
+        )
+
+    [162] => Array
+        (
+            [0] => trigger_error
+            [1] => prev
+        )
+
+    [173] => Array
+        (
+            [0] => user_error
+        )
+
+    [471] => Array
+        (
+            [0] => set_error_handler
+            [1] => gztell
+            [2] => pcntl_fork
+            [3] => iterator_count
+            [4] => is_object
+            [5] => stream_bucket_new
+            [6] => mysqli_field_tell
+        )
+
+    [335] => Array
+        (
+            [0] => restore_error_handler
+            [1] => var_export
+            [2] => mysql_listdbs
+        )
+
+    [1148] => Array
+        (
+            [0] => set_exception_handler
+            [1] => mysqli_stmt_send_long_data
+        )
+
+    [2036] => Array
+        (
+            [0] => restore_exception_handler
+        )
+
+    [1317] => Array
+        (
+            [0] => get_declared_classes
+            [1] => array_fill_keys
+        )
+
+    [91] => Array
+        (
+            [0] => get_declared_interfaces
+            [1] => imap_num_recent
+        )
+
+    [587] => Array
+        (
+            [0] => get_defined_functions
+        )
+
+    [1134] => Array
+        (
+            [0] => get_defined_vars
+        )
+
+    [62] => Array
+        (
+            [0] => create_function
+        )
+
+    [1293] => Array
+        (
+            [0] => get_resource_type
+        )
+
+    [1212] => Array
+        (
+            [0] => get_loaded_extensions
+            [1] => dba_firstkey
+        )
+
+    [1770] => Array
+        (
+            [0] => extension_loaded
+            [1] => call_user_func
+        )
+
+    [1919] => Array
+        (
+            [0] => get_extension_funcs
+        )
+
+    [1551] => Array
+        (
+            [0] => get_defined_constants
+            [1] => uniqid
+        )
+
+    [459] => Array
+        (
+            [0] => debug_backtrace
+        )
+
+    [1015] => Array
+        (
+            [0] => debug_print_backtrace
+            [1] => socket_connect
+        )
+
+    [662] => Array
+        (
+            [0] => gc_collect_cycles
+            [1] => explode
+        )
+
+    [1465] => Array
+        (
+            [0] => gc_enabled
+            [1] => mysql_result
+        )
+
+    [565] => Array
+        (
+            [0] => gc_enable
+            [1] => dl
+        )
+
+    [1538] => Array
+        (
+            [0] => gc_disable
+        )
+
+    [496] => Array
+        (
+            [0] => strtotime
+            [1] => date_default_timezone_get
+        )
+
+    [1475] => Array
+        (
+            [0] => date
+            [1] => imap_rename
+        )
+
+    [1132] => Array
+        (
+            [0] => idate
+            [1] => strtok
+        )
+
+    [311] => Array
+        (
+            [0] => gmdate
+            [1] => fgetcsv
+        )
+
+    [460] => Array
+        (
+            [0] => mktime
+            [1] => json_encode
+        )
+
+    [576] => Array
+        (
+            [0] => gmmktime
+        )
+
+    [961] => Array
+        (
+            [0] => checkdate
+            [1] => mb_output_handler
+            [2] => strnatcmp
+        )
+
+    [1299] => Array
+        (
+            [0] => strftime
+        )
+
+    [647] => Array
+        (
+            [0] => gmstrftime
+            [1] => mb_decode_mimeheader
+            [2] => xml_set_element_handler
+            [3] => bzerrno
+            [4] => mcrypt_get_block_size
+        )
+
+    [788] => Array
+        (
+            [0] => time
+            [1] => ldap_get_values
+            [2] => mysqli_stmt_error
+        )
+
+    [1951] => Array
+        (
+            [0] => localtime
+        )
+
+    [1859] => Array
+        (
+            [0] => getdate
+            [1] => tcpwrap_check
+        )
+
+    [86] => Array
+        (
+            [0] => date_create
+        )
+
+    [785] => Array
+        (
+            [0] => date_create_from_format
+            [1] => tidy_getopt
+        )
+
+    [93] => Array
+        (
+            [0] => date_parse
+        )
+
+    [1432] => Array
+        (
+            [0] => date_parse_from_format
+            [1] => ob_clean
+        )
+
+    [1041] => Array
+        (
+            [0] => date_get_last_errors
+            [1] => split
+            [2] => socket_set_option
+        )
+
+    [235] => Array
+        (
+            [0] => date_format
+            [1] => posix_initgroups
+            [2] => max
+            [3] => mysqli_stmt_insert_id
+        )
+
+    [1930] => Array
+        (
+            [0] => date_modify
+        )
+
+    [1579] => Array
+        (
+            [0] => date_add
+            [1] => zend_hash_table_mask
+        )
+
+    [1292] => Array
+        (
+            [0] => date_sub
+        )
+
+    [1496] => Array
+        (
+            [0] => date_timezone_set
+        )
+
+    [1864] => Array
+        (
+            [0] => date_offset_get
+            [1] => mb_ereg_search_setpos
+            [2] => mcrypt_enc_is_block_algorithm_mode
+        )
+
+    [155] => Array
+        (
+            [0] => date_diff
+            [1] => mb_substitute_character
+            [2] => ldap_close
+        )
+
+    [732] => Array
+        (
+            [0] => date_time_set
+            [1] => mb_ereg_search_pos
+        )
+
+    [1291] => Array
+        (
+            [0] => date_date_set
+            [1] => md5
+        )
+
+    [22] => Array
+        (
+            [0] => date_isodate_set
+            [1] => hexdec
+        )
+
+    [417] => Array
+        (
+            [0] => date_timestamp_set
+            [1] => stat
+        )
+
+    [1301] => Array
+        (
+            [0] => date_timestamp_get
+            [1] => sqlite_next
+        )
+
+    [1409] => Array
+        (
+            [0] => timezone_open
+            [1] => readfile
+        )
+
+    [943] => Array
+        (
+            [0] => timezone_name_get
+            [1] => msg_get_queue
+        )
+
+    [1529] => Array
+        (
+            [0] => timezone_name_from_abbr
+            [1] => openssl_csr_new
+        )
+
+    [245] => Array
+        (
+            [0] => timezone_offset_get
+            [1] => dba_fetch
+        )
+
+    [1068] => Array
+        (
+            [0] => timezone_transitions_get
+            [1] => gzgetss
+        )
+
+    [1159] => Array
+        (
+            [0] => timezone_location_get
+            [1] => ftp_put
+        )
+
+    [128] => Array
+        (
+            [0] => timezone_identifiers_list
+            [1] => mysqli_ssl_set
+            [2] => extract
+        )
+
+    [1363] => Array
+        (
+            [0] => timezone_abbreviations_list
+            [1] => imagecopymerge
+        )
+
+    [1684] => Array
+        (
+            [0] => timezone_version_get
+        )
+
+    [224] => Array
+        (
+            [0] => date_interval_create_from_date_string
+            [1] => curl_copy_handle
+        )
+
+    [207] => Array
+        (
+            [0] => date_interval_format
+            [1] => msg_queue_exists
+        )
+
+    [1660] => Array
+        (
+            [0] => date_default_timezone_set
+        )
+
+    [1547] => Array
+        (
+            [0] => date_sunrise
+            [1] => mb_strlen
+            [2] => ldap_errno
+        )
+
+    [964] => Array
+        (
+            [0] => date_sunset
+            [1] => apc_sma_info
+        )
+
+    [35] => Array
+        (
+            [0] => date_sun_info
+        )
+
+    [296] => Array
+        (
+            [0] => ereg
+        )
+
+    [1187] => Array
+        (
+            [0] => ereg_replace
+        )
+
+    [945] => Array
+        (
+            [0] => eregi
+        )
+
+    [44] => Array
+        (
+            [0] => eregi_replace
+        )
+
+    [954] => Array
+        (
+            [0] => spliti
+        )
+
+    [14] => Array
+        (
+            [0] => sql_regcase
+        )
+
+    [250] => Array
+        (
+            [0] => libxml_set_streams_context
+        )
+
+    [1361] => Array
+        (
+            [0] => libxml_use_internal_errors
+            [1] => session_cache_limiter
+            [2] => session_commit
+            [3] => dcgettext
+        )
+
+    [1992] => Array
+        (
+            [0] => libxml_get_last_error
+            [1] => imap_savebody
+        )
+
+    [1071] => Array
+        (
+            [0] => libxml_clear_errors
+        )
+
+    [104] => Array
+        (
+            [0] => libxml_get_errors
+        )
+
+    [1522] => Array
+        (
+            [0] => libxml_disable_entity_loader
+        )
+
+    [127] => Array
+        (
+            [0] => preg_match
+        )
+
+    [503] => Array
+        (
+            [0] => preg_match_all
+            [1] => fputs
+            [2] => apc_cache_info
+        )
+
+    [1326] => Array
+        (
+            [0] => preg_replace
+            [1] => pcntl_wifexited
+        )
+
+    [826] => Array
+        (
+            [0] => preg_replace_callback
+            [1] => mb_eregi_replace
+        )
+
+    [1144] => Array
+        (
+            [0] => preg_filter
+            [1] => filter_input_array
+            [2] => ftp_nlist
+            [3] => imagefontheight
+        )
+
+    [990] => Array
+        (
+            [0] => preg_split
+            [1] => imap_clearflag_full
+        )
+
+    [1824] => Array
+        (
+            [0] => preg_quote
+            [1] => mysql_selectdb
+        )
+
+    [1408] => Array
+        (
+            [0] => preg_grep
+            [1] => jdtojewish
+        )
+
+    [1231] => Array
+        (
+            [0] => preg_last_error
+            [1] => sqrt
+        )
+
+    [34] => Array
+        (
+            [0] => readgzfile
+            [1] => imagecolorexactalpha
+            [2] => xdebug_get_formatted_function_stack
+        )
+
+    [847] => Array
+        (
+            [0] => gzrewind
+        )
+
+    [1404] => Array
+        (
+            [0] => gzclose
+            [1] => hash_init
+        )
+
+    [672] => Array
+        (
+            [0] => gzeof
+            [1] => imagesetthickness
+        )
+
+    [1065] => Array
+        (
+            [0] => gzgetc
+            [1] => pcntl_sigwaitinfo
+            [2] => xmlwriter_start_element
+        )
+
+    [1593] => Array
+        (
+            [0] => gzgets
+            [1] => jdtojulian
+            [2] => ftp_alloc
+            [3] => imagecolortransparent
+            [4] => memcache_flush
+        )
+
+    [258] => Array
+        (
+            [0] => gzread
+        )
+
+    [504] => Array
+        (
+            [0] => gzopen
+            [1] => curl_multi_add_handle
+            [2] => openssl_x509_parse
+        )
+
+    [352] => Array
+        (
+            [0] => gzpassthru
+            [1] => base_convert
+        )
+
+    [878] => Array
+        (
+            [0] => gzseek
+            [1] => mb_stristr
+            [2] => mb_convert_kana
+            [3] => rewind
+            [4] => mysqli_field_seek
+        )
+
+    [1809] => Array
+        (
+            [0] => gzwrite
+            [1] => sha1_file
+        )
+
+    [210] => Array
+        (
+            [0] => gzputs
+        )
+
+    [870] => Array
+        (
+            [0] => gzfile
+        )
+
+    [18] => Array
+        (
+            [0] => gzcompress
+            [1] => imap_timeout
+        )
+
+    [1141] => Array
+        (
+            [0] => gzuncompress
+            [1] => mbregex_encoding
+            [2] => xml_parser_create_ns
+        )
+
+    [2011] => Array
+        (
+            [0] => gzdeflate
+        )
+
+    [777] => Array
+        (
+            [0] => gzinflate
+        )
+
+    [244] => Array
+        (
+            [0] => gzencode
+            [1] => snmp3_getnext
+        )
+
+    [628] => Array
+        (
+            [0] => ob_gzhandler
+        )
+
+    [1161] => Array
+        (
+            [0] => zlib_get_coding_type
+            [1] => xdebug_time_index
+        )
+
+    [851] => Array
+        (
+            [0] => bcadd
+        )
+
+    [564] => Array
+        (
+            [0] => bcsub
+            [1] => bcsqrt
+            [2] => ftp_fget
+            [3] => openssl_pkcs7_encrypt
+        )
+
+    [312] => Array
+        (
+            [0] => bcmul
+        )
+
+    [13] => Array
+        (
+            [0] => bcdiv
+        )
+
+    [1706] => Array
+        (
+            [0] => bcmod
+            [1] => mysqli_dump_debug_info
+        )
+
+    [1600] => Array
+        (
+            [0] => bcpow
+            [1] => openssl_x509_export_to_file
+        )
+
+    [562] => Array
+        (
+            [0] => bcscale
+            [1] => range
+            [2] => mysqli_connect_errno
+        )
+
+    [921] => Array
+        (
+            [0] => bccomp
+            [1] => php_sapi_name
+        )
+
+    [160] => Array
+        (
+            [0] => bcpowmod
+        )
+
+    [1780] => Array
+        (
+            [0] => jdtogregorian
+            [1] => posix_getpid
+            [2] => ftp_rawlist
+        )
+
+    [1044] => Array
+        (
+            [0] => gregoriantojd
+        )
+
+    [57] => Array
+        (
+            [0] => juliantojd
+        )
+
+    [768] => Array
+        (
+            [0] => jewishtojd
+            [1] => set_include_path
+        )
+
+    [876] => Array
+        (
+            [0] => jdtofrench
+        )
+
+    [1772] => Array
+        (
+            [0] => frenchtojd
+        )
+
+    [1586] => Array
+        (
+            [0] => jddayofweek
+        )
+
+    [1274] => Array
+        (
+            [0] => jdmonthname
+            [1] => jdtounix
+        )
+
+    [966] => Array
+        (
+            [0] => easter_date
+        )
+
+    [729] => Array
+        (
+            [0] => easter_days
+            [1] => openssl_x509_read
+        )
+
+    [1978] => Array
+        (
+            [0] => unixtojd
+            [1] => mb_convert_encoding
+        )
+
+    [932] => Array
+        (
+            [0] => cal_to_jd
+        )
+
+    [1045] => Array
+        (
+            [0] => cal_from_jd
+        )
+
+    [1216] => Array
+        (
+            [0] => cal_days_in_month
+            [1] => mysql_fieldtype
+        )
+
+    [832] => Array
+        (
+            [0] => cal_info
+            [1] => curl_version
+            [2] => openssl_csr_sign
+            [3] => snmp2_set
+        )
+
+    [198] => Array
+        (
+            [0] => ctype_alnum
+        )
+
+    [175] => Array
+        (
+            [0] => ctype_alpha
+        )
+
+    [108] => Array
+        (
+            [0] => ctype_cntrl
+        )
+
+    [90] => Array
+        (
+            [0] => ctype_digit
+        )
+
+    [1330] => Array
+        (
+            [0] => ctype_lower
+        )
+
+    [187] => Array
+        (
+            [0] => ctype_graph
+            [1] => sqlite_exec
+        )
+
+    [630] => Array
+        (
+            [0] => ctype_print
+        )
+
+    [787] => Array
+        (
+            [0] => ctype_punct
+        )
+
+    [1941] => Array
+        (
+            [0] => ctype_space
+        )
+
+    [1205] => Array
+        (
+            [0] => ctype_upper
+            [1] => connection_aborted
+        )
+
+    [2034] => Array
+        (
+            [0] => ctype_xdigit
+        )
+
+    [1085] => Array
+        (
+            [0] => dba_open
+            [1] => debug_zval_dump
+        )
+
+    [1037] => Array
+        (
+            [0] => dba_popen
+            [1] => sort
+        )
+
+    [97] => Array
+        (
+            [0] => dba_close
+            [1] => imagettfbbox
+        )
+
+    [734] => Array
+        (
+            [0] => dba_delete
+            [1] => mb_ereg_search_init
+        )
+
+    [299] => Array
+        (
+            [0] => dba_exists
+            [1] => curl_multi_info_read
+        )
+
+    [1344] => Array
+        (
+            [0] => dba_insert
+            [1] => imap_headerinfo
+            [2] => ldap_mod_replace
+        )
+
+    [583] => Array
+        (
+            [0] => dba_replace
+            [1] => flush
+        )
+
+    [1715] => Array
+        (
+            [0] => dba_nextkey
+            [1] => usleep
+            [2] => imagegd
+        )
+
+    [1436] => Array
+        (
+            [0] => dba_optimize
+            [1] => stream_socket_recvfrom
+        )
+
+    [648] => Array
+        (
+            [0] => dba_sync
+            [1] => pcntl_strerror
+            [2] => log1p
+            [3] => mysql_ping
+            [4] => xdebug_debug_zval_stdout
+        )
+
+    [892] => Array
+        (
+            [0] => dba_handlers
+        )
+
+    [103] => Array
+        (
+            [0] => dba_list
+        )
+
+    [1119] => Array
+        (
+            [0] => dba_key_split
+            [1] => linkinfo
+        )
+
+    [1241] => Array
+        (
+            [0] => dom_import_simplexml
+            [1] => posix_getuid
+        )
+
+    [1093] => Array
+        (
+            [0] => exif_read_data
+        )
+
+    [1605] => Array
+        (
+            [0] => read_exif_data
+        )
+
+    [1389] => Array
+        (
+            [0] => exif_tagname
+        )
+
+    [1908] => Array
+        (
+            [0] => exif_thumbnail
+        )
+
+    [1237] => Array
+        (
+            [0] => exif_imagetype
+        )
+
+    [8] => Array
+        (
+            [0] => finfo_open
+            [1] => stream_get_filters
+        )
+
+    [1420] => Array
+        (
+            [0] => finfo_close
+            [1] => sqlite_query
+        )
+
+    [1198] => Array
+        (
+            [0] => finfo_set_flags
+            [1] => is_link
+        )
+
+    [374] => Array
+        (
+            [0] => finfo_file
+            [1] => bzdecompress
+        )
+
+    [304] => Array
+        (
+            [0] => finfo_buffer
+            [1] => expm1
+            [2] => is_callable
+            [3] => mysql_query
+        )
+
+    [1352] => Array
+        (
+            [0] => mime_content_type
+            [1] => mb_list_encodings
+            [2] => get_browser
+        )
+
+    [1914] => Array
+        (
+            [0] => filter_input
+        )
+
+    [115] => Array
+        (
+            [0] => filter_var
+        )
+
+    [1073] => Array
+        (
+            [0] => filter_var_array
+        )
+
+    [6] => Array
+        (
+            [0] => filter_list
+        )
+
+    [1582] => Array
+        (
+            [0] => filter_has_var
+            [1] => count
+        )
+
+    [1719] => Array
+        (
+            [0] => filter_id
+        )
+
+    [1001] => Array
+        (
+            [0] => hash
+        )
+
+    [232] => Array
+        (
+            [0] => hash_file
+        )
+
+    [1121] => Array
+        (
+            [0] => hash_hmac
+        )
+
+    [1120] => Array
+        (
+            [0] => hash_hmac_file
+        )
+
+    [907] => Array
+        (
+            [0] => hash_update
+        )
+
+    [694] => Array
+        (
+            [0] => hash_update_stream
+            [1] => session_encode
+            [2] => unlink
+        )
+
+    [1482] => Array
+        (
+            [0] => hash_update_file
+            [1] => system
+        )
+
+    [914] => Array
+        (
+            [0] => hash_final
+            [1] => pcntl_signal_dispatch
+            [2] => mysqli_refresh
+        )
+
+    [1347] => Array
+        (
+            [0] => hash_copy
+            [1] => bzerrstr
+        )
+
+    [1982] => Array
+        (
+            [0] => hash_algos
+            [1] => sqlite_fetch_array
+        )
+
+    [1890] => Array
+        (
+            [0] => json_decode
+            [1] => escapeshellcmd
+            [2] => ftp_nb_continue
+        )
+
+    [539] => Array
+        (
+            [0] => json_last_error
+            [1] => mberegi_replace
+        )
+
+    [1327] => Array
+        (
+            [0] => mb_convert_case
+            [1] => iterator_to_array
+            [2] => stream_get_transports
+        )
+
+    [1467] => Array
+        (
+            [0] => mb_strtoupper
+            [1] => ldap_first_reference
+        )
+
+    [1592] => Array
+        (
+            [0] => mb_strtolower
+        )
+
+    [1335] => Array
+        (
+            [0] => mb_language
+        )
+
+    [1750] => Array
+        (
+            [0] => mb_internal_encoding
+            [1] => is_scalar
+            [2] => imap_alerts
+            [3] => mcrypt_list_modes
+            [4] => mysqli_connect_error
+            [5] => sqlite_fetch_object
+        )
+
+    [546] => Array
+        (
+            [0] => mb_http_input
+            [1] => chr
+        )
+
+    [1543] => Array
+        (
+            [0] => mb_detect_order
+            [1] => xmlrpc_set_type
+        )
+
+    [1318] => Array
+        (
+            [0] => mb_parse_str
+        )
+
+    [1849] => Array
+        (
+            [0] => mb_preferred_mime_name
+        )
+
+    [702] => Array
+        (
+            [0] => mb_strpos
+            [1] => xdebug_call_file
+        )
+
+    [1456] => Array
+        (
+            [0] => mb_strrpos
+        )
+
+    [295] => Array
+        (
+            [0] => mb_stripos
+        )
+
+    [601] => Array
+        (
+            [0] => mb_strripos
+        )
+
+    [1285] => Array
+        (
+            [0] => mb_strstr
+            [1] => socket_get_option
+            [2] => fpassthru
+        )
+
+    [1755] => Array
+        (
+            [0] => mb_strrchr
+            [1] => posix_getpgid
+        )
+
+    [900] => Array
+        (
+            [0] => mb_strrichr
+            [1] => posix_getgrgid
+            [2] => stream_context_set_default
+            [3] => mysql_real_escape_string
+        )
+
+    [1430] => Array
+        (
+            [0] => mb_substr
+        )
+
+    [888] => Array
+        (
+            [0] => mb_strcut
+            [1] => restore_include_path
+        )
+
+    [1228] => Array
+        (
+            [0] => mb_strwidth
+            [1] => array_change_key_case
+        )
+
+    [1602] => Array
+        (
+            [0] => mb_strimwidth
+        )
+
+    [1682] => Array
+        (
+            [0] => mb_detect_encoding
+            [1] => ftp_set_option
+        )
+
+    [475] => Array
+        (
+            [0] => mb_encoding_aliases
+            [1] => is_null
+            [2] => array_count_values
+        )
+
+    [1713] => Array
+        (
+            [0] => mb_encode_mimeheader
+            [1] => xmlrpc_is_fault
+        )
+
+    [492] => Array
+        (
+            [0] => mb_convert_variables
+        )
+
+    [1552] => Array
+        (
+            [0] => mb_encode_numericentity
+            [1] => fputcsv
+        )
+
+    [550] => Array
+        (
+            [0] => mb_decode_numericentity
+            [1] => imagecopymergegray
+        )
+
+    [1695] => Array
+        (
+            [0] => mb_send_mail
+            [1] => call_user_method
+            [2] => is_array
+            [3] => array_keys
+        )
+
+    [1527] => Array
+        (
+            [0] => mb_check_encoding
+            [1] => imap_rfc822_parse_headers
+        )
+
+    [372] => Array
+        (
+            [0] => mb_regex_encoding
+        )
+
+    [164] => Array
+        (
+            [0] => mb_regex_set_options
+        )
+
+    [1142] => Array
+        (
+            [0] => mb_ereg
+        )
+
+    [191] => Array
+        (
+            [0] => mb_eregi
+        )
+
+    [1521] => Array
+        (
+            [0] => mb_ereg_replace
+        )
+
+    [287] => Array
+        (
+            [0] => mb_split
+        )
+
+    [1154] => Array
+        (
+            [0] => mb_ereg_match
+            [1] => idn_strerror
+        )
+
+    [1035] => Array
+        (
+            [0] => mb_ereg_search
+        )
+
+    [1883] => Array
+        (
+            [0] => mb_ereg_search_regs
+            [1] => atan2
+        )
+
+    [1723] => Array
+        (
+            [0] => mb_ereg_search_getregs
+            [1] => wordwrap
+        )
+
+    [1596] => Array
+        (
+            [0] => mb_ereg_search_getpos
+        )
+
+    [567] => Array
+        (
+            [0] => mbereg
+        )
+
+    [1696] => Array
+        (
+            [0] => mberegi
+        )
+
+    [1202] => Array
+        (
+            [0] => mbereg_replace
+            [1] => imap_utf8
+        )
+
+    [1792] => Array
+        (
+            [0] => mbsplit
+            [1] => tidy_get_error_buffer
+        )
+
+    [1795] => Array
+        (
+            [0] => mbereg_match
+            [1] => openssl_decrypt
+        )
+
+    [1708] => Array
+        (
+            [0] => mbereg_search
+            [1] => spl_autoload
+            [2] => bzwrite
+            [3] => mysqli_commit
+            [4] => snmp_get_valueretrieval
+        )
+
+    [1533] => Array
+        (
+            [0] => mbereg_search_pos
+            [1] => mysqli_stmt_execute
+        )
+
+    [1692] => Array
+        (
+            [0] => mbereg_search_regs
+        )
+
+    [543] => Array
+        (
+            [0] => mbereg_search_init
+            [1] => array_replace
+        )
+
+    [604] => Array
+        (
+            [0] => mbereg_search_getregs
+        )
+
+    [445] => Array
+        (
+            [0] => mbereg_search_getpos
+        )
+
+    [713] => Array
+        (
+            [0] => mbereg_search_setpos
+        )
+
+    [951] => Array
+        (
+            [0] => pcntl_waitpid
+        )
+
+    [1987] => Array
+        (
+            [0] => pcntl_signal
+        )
+
+    [1866] => Array
+        (
+            [0] => pcntl_wifstopped
+            [1] => md5_file
+        )
+
+    [978] => Array
+        (
+            [0] => pcntl_wifsignaled
+        )
+
+    [1178] => Array
+        (
+            [0] => pcntl_wexitstatus
+        )
+
+    [2007] => Array
+        (
+            [0] => pcntl_wtermsig
+            [1] => php_egg_logo_guid
+            [2] => mysqli_init
+        )
+
+    [485] => Array
+        (
+            [0] => pcntl_wstopsig
+            [1] => xdebug_get_profiler_filename
+        )
+
+    [106] => Array
+        (
+            [0] => pcntl_exec
+            [1] => strtolower
+        )
+
+    [370] => Array
+        (
+            [0] => pcntl_alarm
+        )
+
+    [1921] => Array
+        (
+            [0] => pcntl_get_last_error
+            [1] => vsprintf
+            [2] => xmlwriter_end_pi
+        )
+
+    [171] => Array
+        (
+            [0] => pcntl_errno
+        )
+
+    [391] => Array
+        (
+            [0] => pcntl_getpriority
+        )
+
+    [531] => Array
+        (
+            [0] => pcntl_setpriority
+            [1] => image_type_to_mime_type
+        )
+
+    [456] => Array
+        (
+            [0] => pcntl_sigprocmask
+        )
+
+    [784] => Array
+        (
+            [0] => pcntl_sigtimedwait
+            [1] => session_unregister
+        )
+
+    [1089] => Array
+        (
+            [0] => spl_classes
+            [1] => imap_search
+            [2] => ldap_read
+        )
+
+    [1659] => Array
+        (
+            [0] => spl_autoload_extensions
+            [1] => gd_info
+            [2] => mysql_fetch_row
+        )
+
+    [144] => Array
+        (
+            [0] => spl_autoload_register
+        )
+
+    [563] => Array
+        (
+            [0] => spl_autoload_unregister
+            [1] => xmlwriter_start_attribute
+            [2] => bzopen
+        )
+
+    [1892] => Array
+        (
+            [0] => spl_autoload_functions
+            [1] => imagecreatefromgd2part
+        )
+
+    [487] => Array
+        (
+            [0] => spl_autoload_call
+            [1] => shmop_read
+        )
+
+    [1207] => Array
+        (
+            [0] => class_parents
+        )
+
+    [1528] => Array
+        (
+            [0] => class_implements
+            [1] => tidy_parse_file
+        )
+
+    [1357] => Array
+        (
+            [0] => spl_object_hash
+        )
+
+    [1604] => Array
+        (
+            [0] => posix_getppid
+        )
+
+    [1509] => Array
+        (
+            [0] => posix_setuid
+            [1] => memcache_prepend
+        )
+
+    [1694] => Array
+        (
+            [0] => posix_geteuid
+            [1] => memcache_debug
+        )
+
+    [298] => Array
+        (
+            [0] => posix_seteuid
+            [1] => imap_mailboxmsginfo
+        )
+
+    [1931] => Array
+        (
+            [0] => posix_getgid
+        )
+
+    [151] => Array
+        (
+            [0] => posix_setgid
+        )
+
+    [336] => Array
+        (
+            [0] => posix_getegid
+            [1] => image2wbmp
+            [2] => mysql_close
+        )
+
+    [988] => Array
+        (
+            [0] => posix_setegid
+            [1] => ini_alter
+        )
+
+    [1648] => Array
+        (
+            [0] => posix_getlogin
+            [1] => is_long
+            [2] => mysqli_stmt_errno
+        )
+
+    [1712] => Array
+        (
+            [0] => posix_getpgrp
+            [1] => mt_getrandmax
+        )
+
+    [1315] => Array
+        (
+            [0] => posix_setsid
+        )
+
+    [359] => Array
+        (
+            [0] => posix_setpgid
+            [1] => popen
+        )
+
+    [1047] => Array
+        (
+            [0] => posix_getsid
+            [1] => filectime
+        )
+
+    [1261] => Array
+        (
+            [0] => posix_uname
+        )
+
+    [1561] => Array
+        (
+            [0] => posix_times
+        )
+
+    [1151] => Array
+        (
+            [0] => posix_ctermid
+        )
+
+    [1689] => Array
+        (
+            [0] => posix_ttyname
+            [1] => imagecopyresized
+        )
+
+    [693] => Array
+        (
+            [0] => posix_isatty
+        )
+
+    [405] => Array
+        (
+            [0] => posix_getcwd
+            [1] => getprotobyname
+            [2] => xmlwriter_set_indent_string
+        )
+
+    [1587] => Array
+        (
+            [0] => posix_mkfifo
+        )
+
+    [1968] => Array
+        (
+            [0] => posix_mknod
+        )
+
+    [1257] => Array
+        (
+            [0] => posix_access
+            [1] => array_uintersect
+        )
+
+    [378] => Array
+        (
+            [0] => posix_getpwnam
+            [1] => posix_strerror
+        )
+
+    [256] => Array
+        (
+            [0] => posix_getpwuid
+            [1] => readdir
+            [2] => mysqli_stmt_close
+        )
+
+    [840] => Array
+        (
+            [0] => posix_getrlimit
+        )
+
+    [1011] => Array
+        (
+            [0] => posix_get_last_error
+        )
+
+    [1245] => Array
+        (
+            [0] => posix_errno
+        )
+
+    [489] => Array
+        (
+            [0] => session_name
+            [1] => imap_check
+        )
+
+    [910] => Array
+        (
+            [0] => session_module_name
+        )
+
+    [1251] => Array
+        (
+            [0] => session_save_path
+            [1] => var_dump
+        )
+
+    [1685] => Array
+        (
+            [0] => session_id
+        )
+
+    [1686] => Array
+        (
+            [0] => session_regenerate_id
+            [1] => show_source
+            [2] => mysql_stat
+        )
+
+    [76] => Array
+        (
+            [0] => session_decode
+        )
+
+    [1581] => Array
+        (
+            [0] => session_register
+            [1] => ldap_mod_add
+        )
+
+    [497] => Array
+        (
+            [0] => session_is_registered
+            [1] => fgetss
+        )
+
+    [1398] => Array
+        (
+            [0] => session_start
+        )
+
+    [1490] => Array
+        (
+            [0] => session_destroy
+        )
+
+    [823] => Array
+        (
+            [0] => session_unset
+        )
+
+    [223] => Array
+        (
+            [0] => session_set_save_handler
+            [1] => array_reverse
+            [2] => xmlwriter_set_indent
+        )
+
+    [2024] => Array
+        (
+            [0] => session_cache_expire
+            [1] => call_user_func_array
+            [2] => array_rand
+        )
+
+    [720] => Array
+        (
+            [0] => session_set_cookie_params
+        )
+
+    [324] => Array
+        (
+            [0] => session_get_cookie_params
+        )
+
+    [1896] => Array
+        (
+            [0] => session_write_close
+        )
+
+    [733] => Array
+        (
+            [0] => shmop_open
+            [1] => imap_open
+        )
+
+    [769] => Array
+        (
+            [0] => shmop_close
+            [1] => imap_close
+        )
+
+    [1638] => Array
+        (
+            [0] => shmop_size
+        )
+
+    [1174] => Array
+        (
+            [0] => shmop_write
+            [1] => memcache_set_failure_callback
+        )
+
+    [382] => Array
+        (
+            [0] => shmop_delete
+            [1] => imap_delete
+        )
+
+    [286] => Array
+        (
+            [0] => simplexml_load_file
+        )
+
+    [789] => Array
+        (
+            [0] => simplexml_load_string
+        )
+
+    [825] => Array
+        (
+            [0] => simplexml_import_dom
+        )
+
+    [906] => Array
+        (
+            [0] => use_soap_error_handler
+        )
+
+    [1390] => Array
+        (
+            [0] => is_soap_fault
+            [1] => microtime
+        )
+
+    [1965] => Array
+        (
+            [0] => socket_select
+        )
+
+    [1313] => Array
+        (
+            [0] => socket_create
+        )
+
+    [687] => Array
+        (
+            [0] => socket_create_listen
+            [1] => chdir
+            [2] => ldap_error
+        )
+
+    [1036] => Array
+        (
+            [0] => socket_create_pair
+            [1] => checkdnsrr
+        )
+
+    [925] => Array
+        (
+            [0] => socket_accept
+            [1] => set_time_limit
+        )
+
+    [846] => Array
+        (
+            [0] => socket_set_nonblock
+        )
+
+    [867] => Array
+        (
+            [0] => socket_set_block
+            [1] => mysqli_fetch_fields
+        )
+
+    [1500] => Array
+        (
+            [0] => socket_listen
+        )
+
+    [3] => Array
+        (
+            [0] => socket_close
+            [1] => imageistruecolor
+        )
+
+    [408] => Array
+        (
+            [0] => socket_write
+        )
+
+    [1705] => Array
+        (
+            [0] => socket_read
+        )
+
+    [1086] => Array
+        (
+            [0] => socket_getsockname
+            [1] => rad2deg
+        )
+
+    [1626] => Array
+        (
+            [0] => socket_getpeername
+        )
+
+    [592] => Array
+        (
+            [0] => socket_strerror
+        )
+
+    [1898] => Array
+        (
+            [0] => socket_bind
+            [1] => ord
+        )
+
+    [381] => Array
+        (
+            [0] => socket_recv
+            [1] => convert_uuencode
+            [2] => xdebug_stop_error_collection
+        )
+
+    [1233] => Array
+        (
+            [0] => socket_recvfrom
+        )
+
+    [1018] => Array
+        (
+            [0] => socket_sendto
+            [1] => quotemeta
+        )
+
+    [1225] => Array
+        (
+            [0] => socket_shutdown
+        )
+
+    [1066] => Array
+        (
+            [0] => socket_last_error
+            [1] => str_shuffle
+            [2] => decbin
+            [3] => mysqli_stmt_free_result
+        )
+
+    [1789] => Array
+        (
+            [0] => socket_clear_error
+        )
+
+    [1472] => Array
+        (
+            [0] => socket_getopt
+            [1] => imagecopyresampled
+        )
+
+    [1740] => Array
+        (
+            [0] => socket_setopt
+            [1] => ftp_rmdir
+        )
+
+    [1263] => Array
+        (
+            [0] => constant
+        )
+
+    [1589] => Array
+        (
+            [0] => bin2hex
+            [1] => inet_ntop
+        )
+
+    [478] => Array
+        (
+            [0] => sleep
+        )
+
+    [568] => Array
+        (
+            [0] => time_nanosleep
+        )
+
+    [247] => Array
+        (
+            [0] => time_sleep_until
+            [1] => pos
+        )
+
+    [861] => Array
+        (
+            [0] => strptime
+            [1] => call_user_method_array
+        )
+
+    [556] => Array
+        (
+            [0] => htmlspecialchars
+        )
+
+    [607] => Array
+        (
+            [0] => htmlentities
+            [1] => mysql_select_db
+            [2] => mysqli_affected_rows
+        )
+
+    [1273] => Array
+        (
+            [0] => html_entity_decode
+        )
+
+    [367] => Array
+        (
+            [0] => htmlspecialchars_decode
+            [1] => sqlite_create_function
+        )
+
+    [1934] => Array
+        (
+            [0] => get_html_translation_table
+        )
+
+    [1138] => Array
+        (
+            [0] => sha1
+        )
+
+    [1378] => Array
+        (
+            [0] => crc32
+            [1] => apc_fetch
+        )
+
+    [912] => Array
+        (
+            [0] => iptcparse
+        )
+
+    [242] => Array
+        (
+            [0] => iptcembed
+            [1] => imagepalettecopy
+        )
+
+    [227] => Array
+        (
+            [0] => getimagesize
+        )
+
+    [519] => Array
+        (
+            [0] => image_type_to_extension
+        )
+
+    [25] => Array
+        (
+            [0] => phpinfo
+        )
+
+    [1491] => Array
+        (
+            [0] => phpversion
+        )
+
+    [1307] => Array
+        (
+            [0] => phpcredits
+            [1] => strchr
+            [2] => stream_bucket_prepend
+            [3] => ldap_search
+        )
+
+    [1349] => Array
+        (
+            [0] => php_logo_guid
+        )
+
+    [1832] => Array
+        (
+            [0] => php_real_logo_guid
+            [1] => realpath_cache_get
+        )
+
+    [622] => Array
+        (
+            [0] => zend_logo_guid
+            [1] => mcrypt_cfb
+            [2] => mysqli_store_result
+        )
+
+    [674] => Array
+        (
+            [0] => php_uname
+        )
+
+    [377] => Array
+        (
+            [0] => php_ini_scanned_files
+        )
+
+    [211] => Array
+        (
+            [0] => php_ini_loaded_file
+        )
+
+    [1949] => Array
+        (
+            [0] => strnatcasecmp
+        )
+
+    [464] => Array
+        (
+            [0] => substr_count
+            [1] => chmod
+        )
+
+    [1199] => Array
+        (
+            [0] => strspn
+        )
+
+    [1618] => Array
+        (
+            [0] => strcspn
+        )
+
+    [2029] => Array
+        (
+            [0] => strtoupper
+            [1] => rewinddir
+            [2] => imagefilledrectangle
+            [3] => ldap_modify
+        )
+
+    [1008] => Array
+        (
+            [0] => strpos
+        )
+
+    [153] => Array
+        (
+            [0] => stripos
+            [1] => ldap_mod_del
+        )
+
+    [1314] => Array
+        (
+            [0] => strrpos
+            [1] => suhosin_get_raw_cookies
+        )
+
+    [11] => Array
+        (
+            [0] => strripos
+        )
+
+    [651] => Array
+        (
+            [0] => strrev
+        )
+
+    [1217] => Array
+        (
+            [0] => hebrev
+        )
+
+    [420] => Array
+        (
+            [0] => hebrevc
+            [1] => mcrypt_enc_is_block_algorithm
+        )
+
+    [741] => Array
+        (
+            [0] => nl2br
+        )
+
+    [1377] => Array
+        (
+            [0] => basename
+            [1] => str_word_count
+            [2] => sqlite_fetch_single
+        )
+
+    [421] => Array
+        (
+            [0] => dirname
+        )
+
+    [1022] => Array
+        (
+            [0] => pathinfo
+            [1] => get_magic_quotes_gpc
+            [2] => imagecolorstotal
+            [3] => openssl_csr_get_subject
+        )
+
+    [1354] => Array
+        (
+            [0] => stripslashes
+            [1] => php_strip_whitespace
+            [2] => mysqli_fetch_field_direct
+        )
+
+    [1933] => Array
+        (
+            [0] => stripcslashes
+            [1] => mysqli_rollback
+        )
+
+    [1591] => Array
+        (
+            [0] => strstr
+            [1] => xml_set_end_namespace_decl_handler
+        )
+
+    [736] => Array
+        (
+            [0] => stristr
+        )
+
+    [1613] => Array
+        (
+            [0] => strrchr
+            [1] => ezmlm_hash
+        )
+
+    [1193] => Array
+        (
+            [0] => str_split
+            [1] => xdebug_is_enabled
+        )
+
+    [653] => Array
+        (
+            [0] => strpbrk
+        )
+
+    [142] => Array
+        (
+            [0] => substr_compare
+        )
+
+    [904] => Array
+        (
+            [0] => strcoll
+            [1] => reset
+            [2] => mysqli_stmt_get_result
+        )
+
+    [21] => Array
+        (
+            [0] => money_format
+        )
+
+    [1736] => Array
+        (
+            [0] => substr
+        )
+
+    [579] => Array
+        (
+            [0] => substr_replace
+            [1] => realpath_cache_size
+            [2] => imap_mail_compose
+        )
+
+    [997] => Array
+        (
+            [0] => ucfirst
+            [1] => xmlwriter_end_cdata
+            [2] => mysqli_autocommit
+        )
+
+    [2044] => Array
+        (
+            [0] => lcfirst
+        )
+
+    [428] => Array
+        (
+            [0] => ucwords
+        )
+
+    [1764] => Array
+        (
+            [0] => strtr
+            [1] => openssl_pkcs7_verify
+        )
+
+    [33] => Array
+        (
+            [0] => addslashes
+            [1] => memcache_connect
+            [2] => openssl_public_decrypt
+        )
+
+    [1348] => Array
+        (
+            [0] => addcslashes
+            [1] => quoted_printable_encode
+        )
+
+    [1747] => Array
+        (
+            [0] => rtrim
+        )
+
+    [1209] => Array
+        (
+            [0] => str_replace
+            [1] => getlastmod
+            [2] => hypot
+            [3] => imagecolorsforindex
+        )
+
+    [450] => Array
+        (
+            [0] => str_ireplace
+            [1] => mcrypt_enc_is_block_mode
+        )
+
+    [1214] => Array
+        (
+            [0] => str_repeat
+            [1] => tidy_get_html_ver
+        )
+
+    [894] => Array
+        (
+            [0] => count_chars
+        )
+
+    [745] => Array
+        (
+            [0] => chunk_split
+        )
+
+    [641] => Array
+        (
+            [0] => trim
+        )
+
+    [781] => Array
+        (
+            [0] => ltrim
+            [1] => mysqli_error
+        )
+
+    [549] => Array
+        (
+            [0] => strip_tags
+            [1] => getservbyport
+            [2] => mysql_field_seek
+        )
+
+    [922] => Array
+        (
+            [0] => similar_text
+        )
+
+    [463] => Array
+        (
+            [0] => implode
+            [1] => readlink
+            [2] => mysqli_get_client_stats
+        )
+
+    [117] => Array
+        (
+            [0] => join
+        )
+
+    [1729] => Array
+        (
+            [0] => setlocale
+            [1] => sys_getloadavg
+            [2] => array_uintersect_assoc
+        )
+
+    [1355] => Array
+        (
+            [0] => localeconv
+            [1] => tidy_get_body
+        )
+
+    [1804] => Array
+        (
+            [0] => nl_langinfo
+        )
+
+    [1739] => Array
+        (
+            [0] => soundex
+        )
+
+    [1290] => Array
+        (
+            [0] => levenshtein
+        )
+
+    [280] => Array
+        (
+            [0] => parse_str
+        )
+
+    [1673] => Array
+        (
+            [0] => str_getcsv
+        )
+
+    [1554] => Array
+        (
+            [0] => str_pad
+        )
+
+    [15] => Array
+        (
+            [0] => chop
+        )
+
+    [107] => Array
+        (
+            [0] => sprintf
+        )
+
+    [696] => Array
+        (
+            [0] => printf
+        )
+
+    [1806] => Array
+        (
+            [0] => vprintf
+            [1] => memcache_decrement
+        )
+
+    [254] => Array
+        (
+            [0] => fprintf
+        )
+
+    [20] => Array
+        (
+            [0] => vfprintf
+        )
+
+    [1059] => Array
+        (
+            [0] => sscanf
+        )
+
+    [146] => Array
+        (
+            [0] => parse_url
+            [1] => imagecolorallocatealpha
+        )
+
+    [102] => Array
+        (
+            [0] => urlencode
+        )
+
+    [1532] => Array
+        (
+            [0] => urldecode
+            [1] => array_chunk
+        )
+
+    [1200] => Array
+        (
+            [0] => rawurlencode
+            [1] => tanh
+            [2] => natsort
+            [3] => shm_has_var
+            [4] => sqlite_num_rows
+        )
+
+    [582] => Array
+        (
+            [0] => rawurldecode
+            [1] => imagechar
+            [2] => iconv_substr
+            [3] => imap_utf8_to_mutf7
+        )
+
+    [2025] => Array
+        (
+            [0] => http_build_query
+            [1] => array_udiff_assoc
+            [2] => iconv_get_encoding
+        )
+
+    [716] => Array
+        (
+            [0] => symlink
+        )
+
+    [1043] => Array
+        (
+            [0] => link
+            [1] => xmlwriter_start_attribute_ns
+        )
+
+    [746] => Array
+        (
+            [0] => exec
+        )
+
+    [1096] => Array
+        (
+            [0] => escapeshellarg
+            [1] => move_uploaded_file
+        )
+
+    [1343] => Array
+        (
+            [0] => passthru
+            [1] => dcngettext
+        )
+
+    [1473] => Array
+        (
+            [0] => shell_exec
+            [1] => mysql_numfields
+        )
+
+    [1610] => Array
+        (
+            [0] => proc_open
+            [1] => sem_release
+        )
+
+    [1038] => Array
+        (
+            [0] => proc_close
+            [1] => ob_end_clean
+        )
+
+    [1665] => Array
+        (
+            [0] => proc_terminate
+            [1] => array_intersect_uassoc
+        )
+
+    [1595] => Array
+        (
+            [0] => proc_get_status
+            [1] => xdebug_dump_aggr_profiling_data
+        )
+
+    [1399] => Array
+        (
+            [0] => proc_nice
+        )
+
+    [810] => Array
+        (
+            [0] => rand
+            [1] => apc_delete_file
+        )
+
+    [29] => Array
+        (
+            [0] => srand
+            [1] => msg_remove_queue
+        )
+
+    [1488] => Array
+        (
+            [0] => getrandmax
+        )
+
+    [1034] => Array
+        (
+            [0] => mt_rand
+            [1] => mysqli_escape_string
+        )
+
+    [1277] => Array
+        (
+            [0] => mt_srand
+            [1] => token_get_all
+            [2] => xdebug_get_function_stack
+        )
+
+    [1185] => Array
+        (
+            [0] => getservbyname
+        )
+
+    [1693] => Array
+        (
+            [0] => getprotobynumber
+            [1] => ldap_rename
+        )
+
+    [941] => Array
+        (
+            [0] => getmyuid
+            [1] => imageftbbox
+        )
+
+    [1631] => Array
+        (
+            [0] => getmygid
+        )
+
+    [1480] => Array
+        (
+            [0] => getmypid
+        )
+
+    [621] => Array
+        (
+            [0] => base64_decode
+            [1] => imap_listsubscribed
+            [2] => mysqli_connect
+        )
+
+    [1239] => Array
+        (
+            [0] => base64_encode
+        )
+
+    [1811] => Array
+        (
+            [0] => convert_uudecode
+            [1] => array_merge
+        )
+
+    [2043] => Array
+        (
+            [0] => abs
+        )
+
+    [226] => Array
+        (
+            [0] => ceil
+        )
+
+    [71] => Array
+        (
+            [0] => floor
+        )
+
+    [1421] => Array
+        (
+            [0] => round
+        )
+
+    [1007] => Array
+        (
+            [0] => sin
+            [1] => openssl_get_publickey
+        )
+
+    [10] => Array
+        (
+            [0] => cos
+        )
+
+    [1608] => Array
+        (
+            [0] => tan
+        )
+
+    [1392] => Array
+        (
+            [0] => asin
+        )
+
+    [395] => Array
+        (
+            [0] => acos
+            [1] => mcrypt_cbc
+        )
+
+    [1993] => Array
+        (
+            [0] => atan
+            [1] => mysqli_num_fields
+            [2] => openssl_x509_checkpurpose
+        )
+
+    [1617] => Array
+        (
+            [0] => atanh
+        )
+
+    [1847] => Array
+        (
+            [0] => sinh
+        )
+
+    [1714] => Array
+        (
+            [0] => cosh
+            [1] => exp
+        )
+
+    [216] => Array
+        (
+            [0] => asinh
+        )
+
+    [83] => Array
+        (
+            [0] => acosh
+        )
+
+    [1246] => Array
+        (
+            [0] => pi
+            [1] => imagewbmp
+        )
+
+    [1375] => Array
+        (
+            [0] => is_finite
+            [1] => gethostbyname
+        )
+
+    [1341] => Array
+        (
+            [0] => is_nan
+        )
+
+    [1910] => Array
+        (
+            [0] => is_infinite
+            [1] => ldap_get_dn
+        )
+
+    [379] => Array
+        (
+            [0] => pow
+        )
+
+    [1511] => Array
+        (
+            [0] => log
+            [1] => snmp3_real_walk
+        )
+
+    [584] => Array
+        (
+            [0] => log10
+            [1] => get_magic_quotes_runtime
+        )
+
+    [190] => Array
+        (
+            [0] => deg2rad
+            [1] => ldap_get_entries
+        )
+
+    [266] => Array
+        (
+            [0] => bindec
+            [1] => xdebug_print_function_stack
+        )
+
+    [1559] => Array
+        (
+            [0] => octdec
+        )
+
+    [1111] => Array
+        (
+            [0] => decoct
+            [1] => stream_get_line
+        )
+
+    [1718] => Array
+        (
+            [0] => dechex
+        )
+
+    [790] => Array
+        (
+            [0] => number_format
+            [1] => snmprealwalk
+        )
+
+    [1515] => Array
+        (
+            [0] => fmod
+        )
+
+    [1781] => Array
+        (
+            [0] => inet_pton
+            [1] => xmlwriter_write_pi
+        )
+
+    [992] => Array
+        (
+            [0] => ip2long
+        )
+
+    [448] => Array
+        (
+            [0] => long2ip
+            [1] => xml_set_notation_decl_handler
+            [2] => apc_compile_file
+        )
+
+    [1646] => Array
+        (
+            [0] => getenv
+            [1] => header
+        )
+
+    [839] => Array
+        (
+            [0] => putenv
+            [1] => dns_get_record
+        )
+
+    [632] => Array
+        (
+            [0] => getopt
+        )
+
+    [1127] => Array
+        (
+            [0] => gettimeofday
+        )
+
+    [1100] => Array
+        (
+            [0] => getrusage
+            [1] => imagecolorallocate
+            [2] => xdebug_get_stack_depth
+        )
+
+    [730] => Array
+        (
+            [0] => quoted_printable_decode
+        )
+
+    [1929] => Array
+        (
+            [0] => convert_cyr_string
+        )
+
+    [5] => Array
+        (
+            [0] => get_current_user
+            [1] => dns_check_record
+        )
+
+    [1052] => Array
+        (
+            [0] => get_cfg_var
+            [1] => forward_static_call
+            [2] => imagecreate
+        )
+
+    [617] => Array
+        (
+            [0] => magic_quotes_runtime
+        )
+
+    [1620] => Array
+        (
+            [0] => set_magic_quotes_runtime
+        )
+
+    [1424] => Array
+        (
+            [0] => error_log
+            [1] => unserialize
+            [2] => xmlwriter_write_attribute
+        )
+
+    [673] => Array
+        (
+            [0] => error_get_last
+            [1] => array_shift
+        )
+
+    [666] => Array
+        (
+            [0] => forward_static_call_array
+        )
+
+    [269] => Array
+        (
+            [0] => serialize
+            [1] => imap_subscribe
+        )
+
+    [675] => Array
+        (
+            [0] => print_r
+            [1] => zip_entry_filesize
+            [2] => snmpget
+        )
+
+    [2033] => Array
+        (
+            [0] => memory_get_usage
+        )
+
+    [753] => Array
+        (
+            [0] => memory_get_peak_usage
+        )
+
+    [1802] => Array
+        (
+            [0] => register_shutdown_function
+        )
+
+    [1977] => Array
+        (
+            [0] => register_tick_function
+            [1] => xml_parser_get_option
+            [2] => sqlite_current
+        )
+
+    [284] => Array
+        (
+            [0] => unregister_tick_function
+        )
+
+    [444] => Array
+        (
+            [0] => highlight_file
+            [1] => headers_list
+            [2] => xmlwriter_open_memory
+        )
+
+    [819] => Array
+        (
+            [0] => highlight_string
+        )
+
+    [1732] => Array
+        (
+            [0] => ini_get
+            [1] => xmlwriter_end_dtd
+        )
+
+    [700] => Array
+        (
+            [0] => ini_get_all
+            [1] => mcrypt_enc_get_block_size
+        )
+
+    [848] => Array
+        (
+            [0] => ini_set
+            [1] => socket_get_status
+        )
+
+    [72] => Array
+        (
+            [0] => ini_restore
+        )
+
+    [756] => Array
+        (
+            [0] => get_include_path
+        )
+
+    [267] => Array
+        (
+            [0] => setcookie
+        )
+
+    [1557] => Array
+        (
+            [0] => setrawcookie
+            [1] => memcache_get_extended_stats
+        )
+
+    [923] => Array
+        (
+            [0] => header_remove
+        )
+
+    [1658] => Array
+        (
+            [0] => headers_sent
+            [1] => memcache_set_compress_threshold
+        )
+
+    [600] => Array
+        (
+            [0] => connection_status
+            [1] => zip_entry_compressedsize
+            [2] => ldap_delete
+        )
+
+    [1598] => Array
+        (
+            [0] => ignore_user_abort
+        )
+
+    [350] => Array
+        (
+            [0] => parse_ini_file
+        )
+
+    [853] => Array
+        (
+            [0] => parse_ini_string
+        )
+
+    [333] => Array
+        (
+            [0] => is_uploaded_file
+            [1] => stream_filter_append
+        )
+
+    [1881] => Array
+        (
+            [0] => gethostbyaddr
+        )
+
+    [1835] => Array
+        (
+            [0] => gethostbynamel
+            [1] => bzerror
+        )
+
+    [676] => Array
+        (
+            [0] => gethostname
+            [1] => mysqli_fetch_row
+        )
+
+    [1837] => Array
+        (
+            [0] => dns_get_mx
+            [1] => imap_uid
+        )
+
+    [430] => Array
+        (
+            [0] => getmxrr
+            [1] => snmpwalkoid
+        )
+
+    [1907] => Array
+        (
+            [0] => intval
+            [1] => imagecolorset
+        )
+
+    [1630] => Array
+        (
+            [0] => floatval
+            [1] => imageantialias
+        )
+
+    [611] => Array
+        (
+            [0] => doubleval
+            [1] => mysqli_multi_query
+        )
+
+    [449] => Array
+        (
+            [0] => strval
+        )
+
+    [1895] => Array
+        (
+            [0] => gettype
+            [1] => mysqli_stmt_next_result
+        )
+
+    [499] => Array
+        (
+            [0] => settype
+            [1] => ftp_exec
+        )
+
+    [200] => Array
+        (
+            [0] => is_resource
+            [1] => ftp_pasv
+        )
+
+    [1612] => Array
+        (
+            [0] => is_bool
+        )
+
+    [246] => Array
+        (
+            [0] => is_float
+        )
+
+    [1899] => Array
+        (
+            [0] => is_int
+        )
+
+    [1838] => Array
+        (
+            [0] => is_integer
+        )
+
+    [635] => Array
+        (
+            [0] => is_double
+        )
+
+    [1796] => Array
+        (
+            [0] => is_real
+        )
+
+    [947] => Array
+        (
+            [0] => is_numeric
+        )
+
+    [727] => Array
+        (
+            [0] => is_string
+        )
+
+    [715] => Array
+        (
+            [0] => pclose
+        )
+
+    [1286] => Array
+        (
+            [0] => umask
+            [1] => ftp_rename
+            [2] => tidy_is_xhtml
+        )
+
+    [833] => Array
+        (
+            [0] => fclose
+            [1] => mysqli_fetch_lengths
+        )
+
+    [1358] => Array
+        (
+            [0] => fgetc
+            [1] => imagefilter
+        )
+
+    [1886] => Array
+        (
+            [0] => fgets
+            [1] => mysql_field_name
+        )
+
+    [551] => Array
+        (
+            [0] => fread
+            [1] => openssl_private_encrypt
+        )
+
+    [797] => Array
+        (
+            [0] => fopen
+        )
+
+    [401] => Array
+        (
+            [0] => ftruncate
+        )
+
+    [1639] => Array
+        (
+            [0] => fstat
+        )
+
+    [1171] => Array
+        (
+            [0] => fseek
+        )
+
+    [764] => Array
+        (
+            [0] => ftell
+        )
+
+    [1997] => Array
+        (
+            [0] => fflush
+            [1] => ob_end_flush
+        )
+
+    [1238] => Array
+        (
+            [0] => fwrite
+        )
+
+    [636] => Array
+        (
+            [0] => mkdir
+        )
+
+    [1981] => Array
+        (
+            [0] => rename
+        )
+
+    [1056] => Array
+        (
+            [0] => copy
+        )
+
+    [375] => Array
+        (
+            [0] => tempnam
+            [1] => lcg_value
+        )
+
+    [1078] => Array
+        (
+            [0] => tmpfile
+            [1] => mcrypt_generic_end
+        )
+
+    [1989] => Array
+        (
+            [0] => file
+        )
+
+    [1841] => Array
+        (
+            [0] => file_get_contents
+        )
+
+    [714] => Array
+        (
+            [0] => file_put_contents
+            [1] => sqlite_array_query
+        )
+
+    [1232] => Array
+        (
+            [0] => stream_select
+        )
+
+    [1064] => Array
+        (
+            [0] => stream_context_create
+            [1] => imageconvolution
+            [2] => sqlite_open
+        )
+
+    [1539] => Array
+        (
+            [0] => stream_context_set_params
+            [1] => openssl_pkey_export_to_file
+        )
+
+    [1783] => Array
+        (
+            [0] => stream_context_get_params
+        )
+
+    [1688] => Array
+        (
+            [0] => stream_context_set_option
+            [1] => stream_copy_to_stream
+            [2] => tidy_access_count
+        )
+
+    [2015] => Array
+        (
+            [0] => stream_context_get_options
+            [1] => imap_create
+        )
+
+    [760] => Array
+        (
+            [0] => stream_context_get_default
+        )
+
+    [1091] => Array
+        (
+            [0] => stream_filter_prepend
+            [1] => array_push
+            [2] => xml_set_character_data_handler
+        )
+
+    [1955] => Array
+        (
+            [0] => stream_filter_remove
+        )
+
+    [1879] => Array
+        (
+            [0] => stream_socket_client
+        )
+
+    [1903] => Array
+        (
+            [0] => stream_socket_server
+            [1] => utf8_decode
+            [2] => mysql_set_charset
+        )
+
+    [1448] => Array
+        (
+            [0] => stream_socket_accept
+        )
+
+    [1272] => Array
+        (
+            [0] => stream_socket_get_name
+            [1] => xmlwriter_start_pi
+            [2] => mysql_get_proto_info
+        )
+
+    [1541] => Array
+        (
+            [0] => stream_socket_sendto
+        )
+
+    [671] => Array
+        (
+            [0] => stream_socket_enable_crypto
+        )
+
+    [1428] => Array
+        (
+            [0] => stream_socket_shutdown
+        )
+
+    [836] => Array
+        (
+            [0] => stream_socket_pair
+        )
+
+    [1629] => Array
+        (
+            [0] => stream_get_contents
+        )
+
+    [392] => Array
+        (
+            [0] => stream_supports_lock
+        )
+
+    [1108] => Array
+        (
+            [0] => flock
+            [1] => xdebug_call_class
+        )
+
+    [1017] => Array
+        (
+            [0] => get_meta_tags
+        )
+
+    [2032] => Array
+        (
+            [0] => stream_set_read_buffer
+            [1] => lchown
+            [2] => xdebug_get_function_count
+        )
+
+    [447] => Array
+        (
+            [0] => stream_set_write_buffer
+            [1] => imagestring
+        )
+
+    [265] => Array
+        (
+            [0] => set_file_buffer
+        )
+
+    [1825] => Array
+        (
+            [0] => set_socket_blocking
+        )
+
+    [1252] => Array
+        (
+            [0] => stream_set_blocking
+        )
+
+    [385] => Array
+        (
+            [0] => socket_set_blocking
+            [1] => mysql_dbname
+        )
+
+    [751] => Array
+        (
+            [0] => stream_get_meta_data
+        )
+
+    [533] => Array
+        (
+            [0] => stream_wrapper_register
+            [1] => stream_register_wrapper
+        )
+
+    [248] => Array
+        (
+            [0] => stream_wrapper_unregister
+        )
+
+    [1556] => Array
+        (
+            [0] => stream_wrapper_restore
+        )
+
+    [1635] => Array
+        (
+            [0] => stream_get_wrappers
+            [1] => xml_parser_free
+        )
+
+    [511] => Array
+        (
+            [0] => stream_resolve_include_path
+        )
+
+    [2006] => Array
+        (
+            [0] => stream_is_local
+            [1] => sqlite_fetch_string
+        )
+
+    [1152] => Array
+        (
+            [0] => get_headers
+        )
+
+    [1698] => Array
+        (
+            [0] => stream_set_timeout
+        )
+
+    [927] => Array
+        (
+            [0] => socket_set_timeout
+        )
+
+    [1782] => Array
+        (
+            [0] => realpath
+            [1] => xdebug_start_code_coverage
+        )
+
+    [646] => Array
+        (
+            [0] => fnmatch
+        )
+
+    [909] => Array
+        (
+            [0] => fsockopen
+        )
+
+    [157] => Array
+        (
+            [0] => pfsockopen
+        )
+
+    [1092] => Array
+        (
+            [0] => pack
+            [1] => snmp3_walk
+        )
+
+    [743] => Array
+        (
+            [0] => unpack
+        )
+
+    [439] => Array
+        (
+            [0] => crypt
+        )
+
+    [1590] => Array
+        (
+            [0] => opendir
+            [1] => ftp_nb_put
+        )
+
+    [794] => Array
+        (
+            [0] => closedir
+        )
+
+    [419] => Array
+        (
+            [0] => getcwd
+            [1] => bzflush
+            [2] => imagecopy
+        )
+
+    [708] => Array
+        (
+            [0] => dir
+        )
+
+    [361] => Array
+        (
+            [0] => scandir
+        )
+
+    [457] => Array
+        (
+            [0] => glob
+            [1] => array_diff_uassoc
+        )
+
+    [725] => Array
+        (
+            [0] => fileatime
+            [1] => mysql_unbuffered_query
+        )
+
+    [850] => Array
+        (
+            [0] => filegroup
+        )
+
+    [212] => Array
+        (
+            [0] => fileinode
+        )
+
+    [609] => Array
+        (
+            [0] => filemtime
+            [1] => xml_get_current_byte_index
+        )
+
+    [688] => Array
+        (
+            [0] => fileowner
+        )
+
+    [1516] => Array
+        (
+            [0] => fileperms
+        )
+
+    [1024] => Array
+        (
+            [0] => filesize
+        )
+
+    [7] => Array
+        (
+            [0] => filetype
+        )
+
+    [1028] => Array
+        (
+            [0] => file_exists
+        )
+
+    [1786] => Array
+        (
+            [0] => is_writable
+            [1] => mcrypt_ofb
+        )
+
+    [1855] => Array
+        (
+            [0] => is_writeable
+        )
+
+    [624] => Array
+        (
+            [0] => is_readable
+            [1] => mysqli_bind_param
+        )
+
+    [1762] => Array
+        (
+            [0] => is_executable
+            [1] => openssl_pkey_free
+        )
+
+    [96] => Array
+        (
+            [0] => is_file
+            [1] => iconv_strrpos
+        )
+
+    [1023] => Array
+        (
+            [0] => is_dir
+            [1] => imageloadfont
+        )
+
+    [557] => Array
+        (
+            [0] => lstat
+        )
+
+    [1508] => Array
+        (
+            [0] => chown
+            [1] => ftp_close
+        )
+
+    [1497] => Array
+        (
+            [0] => chgrp
+        )
+
+    [2021] => Array
+        (
+            [0] => lchgrp
+        )
+
+    [136] => Array
+        (
+            [0] => touch
+            [1] => mcrypt_encrypt
+        )
+
+    [924] => Array
+        (
+            [0] => clearstatcache
+            [1] => mysql_field_len
+        )
+
+    [1502] => Array
+        (
+            [0] => disk_total_space
+            [1] => tidy_get_release
+        )
+
+    [1116] => Array
+        (
+            [0] => disk_free_space
+            [1] => sqlite_num_fields
+        )
+
+    [1406] => Array
+        (
+            [0] => diskfreespace
+        )
+
+    [1128] => Array
+        (
+            [0] => mail
+            [1] => mysqli_client_encoding
+            [2] => openssl_error_string
+        )
+
+    [345] => Array
+        (
+            [0] => openlog
+        )
+
+    [1158] => Array
+        (
+            [0] => syslog
+        )
+
+    [1597] => Array
+        (
+            [0] => closelog
+            [1] => mysqli_reap_async_query
+        )
+
+    [488] => Array
+        (
+            [0] => define_syslog_variables
+            [1] => xdebug_get_code_coverage
+        )
+
+    [1190] => Array
+        (
+            [0] => metaphone
+        )
+
+    [835] => Array
+        (
+            [0] => ob_start
+        )
+
+    [343] => Array
+        (
+            [0] => ob_flush
+        )
+
+    [1814] => Array
+        (
+            [0] => ob_get_flush
+        )
+
+    [855] => Array
+        (
+            [0] => ob_get_clean
+        )
+
+    [598] => Array
+        (
+            [0] => ob_get_length
+        )
+
+    [172] => Array
+        (
+            [0] => ob_get_level
+            [1] => mysql_list_processes
+        )
+
+    [1304] => Array
+        (
+            [0] => ob_get_status
+        )
+
+    [1730] => Array
+        (
+            [0] => ob_get_contents
+        )
+
+    [1649] => Array
+        (
+            [0] => ob_implicit_flush
+        )
+
+    [1505] => Array
+        (
+            [0] => ob_list_handlers
+            [1] => xmlwriter_write_dtd_element
+            [2] => imap_num_msg
+        )
+
+    [1016] => Array
+        (
+            [0] => ksort
+        )
+
+    [1450] => Array
+        (
+            [0] => krsort
+            [1] => memcache_delete
+        )
+
+    [1932] => Array
+        (
+            [0] => natcasesort
+            [1] => xml_get_current_column_number
+        )
+
+    [1454] => Array
+        (
+            [0] => asort
+            [1] => xdebug_stop_code_coverage
+        )
+
+    [1568] => Array
+        (
+            [0] => arsort
+            [1] => mysqli_next_result
+        )
+
+    [95] => Array
+        (
+            [0] => rsort
+        )
+
+    [578] => Array
+        (
+            [0] => usort
+        )
+
+    [643] => Array
+        (
+            [0] => uasort
+            [1] => imap_append
+            [2] => mysqli_stmt_param_count
+        )
+
+    [205] => Array
+        (
+            [0] => uksort
+        )
+
+    [1426] => Array
+        (
+            [0] => shuffle
+            [1] => array_pop
+        )
+
+    [722] => Array
+        (
+            [0] => array_walk
+            [1] => tidy_get_html
+        )
+
+    [553] => Array
+        (
+            [0] => array_walk_recursive
+            [1] => zip_entry_name
+        )
+
+    [668] => Array
+        (
+            [0] => end
+        )
+
+    [1860] => Array
+        (
+            [0] => next
+            [1] => xmlwriter_start_dtd_element
+        )
+
+    [1928] => Array
+        (
+            [0] => current
+        )
+
+    [334] => Array
+        (
+            [0] => key
+        )
+
+    [425] => Array
+        (
+            [0] => min
+        )
+
+    [1594] => Array
+        (
+            [0] => in_array
+            [1] => mcrypt_module_open
+        )
+
+    [633] => Array
+        (
+            [0] => array_search
+            [1] => curl_setopt
+        )
+
+    [1676] => Array
+        (
+            [0] => compact
+        )
+
+    [1386] => Array
+        (
+            [0] => array_fill
+        )
+
+    [1942] => Array
+        (
+            [0] => array_multisort
+        )
+
+    [1316] => Array
+        (
+            [0] => array_unshift
+        )
+
+    [1827] => Array
+        (
+            [0] => array_splice
+        )
+
+    [1523] => Array
+        (
+            [0] => array_slice
+        )
+
+    [938] => Array
+        (
+            [0] => array_merge_recursive
+        )
+
+    [1462] => Array
+        (
+            [0] => array_replace_recursive
+            [1] => sys_get_temp_dir
+            [2] => imagesetpixel
+        )
+
+    [723] => Array
+        (
+            [0] => array_values
+            [1] => zip_read
+        )
+
+    [1019] => Array
+        (
+            [0] => array_reduce
+        )
+
+    [120] => Array
+        (
+            [0] => array_pad
+        )
+
+    [1614] => Array
+        (
+            [0] => array_flip
+        )
+
+    [1402] => Array
+        (
+            [0] => array_unique
+        )
+
+    [1492] => Array
+        (
+            [0] => array_intersect
+            [1] => xmlwriter_write_dtd_entity
+            [2] => mysql_num_rows
+        )
+
+    [380] => Array
+        (
+            [0] => array_intersect_key
+            [1] => memcache_set_server_params
+        )
+
+    [721] => Array
+        (
+            [0] => array_intersect_ukey
+        )
+
+    [1004] => Array
+        (
+            [0] => array_intersect_assoc
+        )
+
+    [1014] => Array
+        (
+            [0] => array_uintersect_uassoc
+        )
+
+    [540] => Array
+        (
+            [0] => array_diff
+        )
+
+    [452] => Array
+        (
+            [0] => array_diff_key
+            [1] => mysqli_stmt_attr_get
+        )
+
+    [1049] => Array
+        (
+            [0] => array_diff_ukey
+            [1] => imagetruecolortopalette
+        )
+
+    [17] => Array
+        (
+            [0] => array_udiff
+        )
+
+    [1588] => Array
+        (
+            [0] => array_diff_assoc
+        )
+
+    [984] => Array
+        (
+            [0] => array_sum
+        )
+
+    [772] => Array
+        (
+            [0] => array_product
+        )
+
+    [1865] => Array
+        (
+            [0] => array_filter
+            [1] => sem_get
+        )
+
+    [1249] => Array
+        (
+            [0] => array_map
+            [1] => apc_add
+        )
+
+    [864] => Array
+        (
+            [0] => array_combine
+        )
+
+    [1195] => Array
+        (
+            [0] => array_key_exists
+            [1] => openssl_get_privatekey
+        )
+
+    [1845] => Array
+        (
+            [0] => sizeof
+        )
+
+    [365] => Array
+        (
+            [0] => key_exists
+            [1] => zip_close
+        )
+
+    [759] => Array
+        (
+            [0] => assert
+            [1] => xdebug_disable
+        )
+
+    [514] => Array
+        (
+            [0] => assert_options
+        )
+
+    [625] => Array
+        (
+            [0] => version_compare
+        )
+
+    [1401] => Array
+        (
+            [0] => ftok
+        )
+
+    [2038] => Array
+        (
+            [0] => str_rot13
+            [1] => snmp_set_quick_print
+        )
+
+    [154] => Array
+        (
+            [0] => stream_filter_register
+        )
+
+    [9] => Array
+        (
+            [0] => stream_bucket_make_writeable
+        )
+
+    [1829] => Array
+        (
+            [0] => stream_bucket_append
+        )
+
+    [455] => Array
+        (
+            [0] => output_add_rewrite_var
+            [1] => xmlwriter_end_document
+            [2] => imap_headers
+        )
+
+    [180] => Array
+        (
+            [0] => output_reset_rewrite_vars
+        )
+
+    [917] => Array
+        (
+            [0] => msg_send
+        )
+
+    [750] => Array
+        (
+            [0] => msg_receive
+        )
+
+    [2027] => Array
+        (
+            [0] => msg_stat_queue
+        )
+
+    [315] => Array
+        (
+            [0] => msg_set_queue
+            [1] => mysql_insert_id
+        )
+
+    [979] => Array
+        (
+            [0] => sem_acquire
+        )
+
+    [119] => Array
+        (
+            [0] => sem_remove
+            [1] => tidy_repair_string
+        )
+
+    [577] => Array
+        (
+            [0] => shm_attach
+        )
+
+    [986] => Array
+        (
+            [0] => shm_remove
+        )
+
+    [1813] => Array
+        (
+            [0] => shm_detach
+        )
+
+    [877] => Array
+        (
+            [0] => shm_put_var
+        )
+
+    [884] => Array
+        (
+            [0] => shm_get_var
+        )
+
+    [194] => Array
+        (
+            [0] => shm_remove_var
+        )
+
+    [614] => Array
+        (
+            [0] => token_name
+            [1] => pdo_drivers
+        )
+
+    [1493] => Array
+        (
+            [0] => xml_parser_create
+        )
+
+    [791] => Array
+        (
+            [0] => xml_set_object
+        )
+
+    [1627] => Array
+        (
+            [0] => xml_set_processing_instruction_handler
+        )
+
+    [1922] => Array
+        (
+            [0] => xml_set_default_handler
+            [1] => textdomain
+        )
+
+    [1778] => Array
+        (
+            [0] => xml_set_unparsed_entity_decl_handler
+            [1] => openssl_free_key
+        )
+
+    [344] => Array
+        (
+            [0] => xml_set_external_entity_ref_handler
+            [1] => sqlite_popen
+        )
+
+    [174] => Array
+        (
+            [0] => xml_set_start_namespace_decl_handler
+        )
+
+    [1904] => Array
+        (
+            [0] => xml_parse
+            [1] => mcrypt_enc_get_iv_size
+            [2] => xdebug_peak_memory_usage
+        )
+
+    [109] => Array
+        (
+            [0] => xml_parse_into_struct
+            [1] => imagecolorresolvealpha
+        )
+
+    [88] => Array
+        (
+            [0] => xml_get_error_code
+        )
+
+    [1653] => Array
+        (
+            [0] => xml_error_string
+            [1] => mcrypt_create_iv
+        )
+
+    [742] => Array
+        (
+            [0] => xml_get_current_line_number
+        )
+
+    [1733] => Array
+        (
+            [0] => xml_parser_set_option
+        )
+
+    [473] => Array
+        (
+            [0] => utf8_encode
+        )
+
+    [520] => Array
+        (
+            [0] => xmlrpc_encode
+        )
+
+    [1950] => Array
+        (
+            [0] => xmlrpc_decode
+        )
+
+    [1478] => Array
+        (
+            [0] => xmlrpc_decode_request
+        )
+
+    [560] => Array
+        (
+            [0] => xmlrpc_encode_request
+        )
+
+    [507] => Array
+        (
+            [0] => xmlrpc_get_type
+            [1] => imagecreatetruecolor
+        )
+
+    [484] => Array
+        (
+            [0] => xmlrpc_server_create
+            [1] => iconv
+        )
+
+    [314] => Array
+        (
+            [0] => xmlrpc_server_destroy
+        )
+
+    [277] => Array
+        (
+            [0] => xmlrpc_server_register_method
+            [1] => mysql_db_query
+        )
+
+    [12] => Array
+        (
+            [0] => xmlrpc_server_call_method
+        )
+
+    [683] => Array
+        (
+            [0] => xmlrpc_parse_method_descriptions
+        )
+
+    [1250] => Array
+        (
+            [0] => xmlrpc_server_add_introspection_data
+        )
+
+    [1905] => Array
+        (
+            [0] => xmlrpc_server_register_introspection_callback
+            [1] => memcache_pconnect
+        )
+
+    [1075] => Array
+        (
+            [0] => xmlwriter_open_uri
+        )
+
+    [1458] => Array
+        (
+            [0] => xmlwriter_start_comment
+        )
+
+    [1499] => Array
+        (
+            [0] => xmlwriter_end_comment
+        )
+
+    [156] => Array
+        (
+            [0] => xmlwriter_end_attribute
+            [1] => memcache_get_version
+        )
+
+    [1616] => Array
+        (
+            [0] => xmlwriter_write_attribute_ns
+            [1] => mysqli_stmt_attr_set
+        )
+
+    [1106] => Array
+        (
+            [0] => xmlwriter_end_element
+        )
+
+    [4] => Array
+        (
+            [0] => xmlwriter_full_end_element
+            [1] => sqlite_has_more
+        )
+
+    [585] => Array
+        (
+            [0] => xmlwriter_start_element_ns
+        )
+
+    [1094] => Array
+        (
+            [0] => xmlwriter_write_element
+            [1] => sqlite_valid
+        )
+
+    [326] => Array
+        (
+            [0] => xmlwriter_write_element_ns
+        )
+
+    [508] => Array
+        (
+            [0] => xmlwriter_start_cdata
+            [1] => imagecolorat
+        )
+
+    [1753] => Array
+        (
+            [0] => xmlwriter_write_cdata
+        )
+
+    [887] => Array
+        (
+            [0] => xmlwriter_text
+        )
+
+    [934] => Array
+        (
+            [0] => xmlwriter_write_raw
+        )
+
+    [1150] => Array
+        (
+            [0] => xmlwriter_start_document
+            [1] => openssl_pkey_get_public
+            [2] => openssl_pkcs12_export_to_file
+        )
+
+    [1487] => Array
+        (
+            [0] => xmlwriter_write_comment
+            [1] => imap_msgno
+        )
+
+    [795] => Array
+        (
+            [0] => xmlwriter_start_dtd
+            [1] => mcrypt_get_iv_size
+        )
+
+    [1208] => Array
+        (
+            [0] => xmlwriter_write_dtd
+        )
+
+    [1005] => Array
+        (
+            [0] => xmlwriter_end_dtd_element
+        )
+
+    [383] => Array
+        (
+            [0] => xmlwriter_start_dtd_attlist
+            [1] => curl_multi_getcontent
+            [2] => sqlite_rewind
+        )
+
+    [1576] => Array
+        (
+            [0] => xmlwriter_end_dtd_attlist
+        )
+
+    [28] => Array
+        (
+            [0] => xmlwriter_write_dtd_attlist
+        )
+
+    [1751] => Array
+        (
+            [0] => xmlwriter_start_dtd_entity
+            [1] => mysqli_stmt_bind_param
+        )
+
+    [608] => Array
+        (
+            [0] => xmlwriter_end_dtd_entity
+            [1] => imap_set_quota
+        )
+
+    [1531] => Array
+        (
+            [0] => xmlwriter_output_memory
+            [1] => imagecreatefromgd
+            [2] => mysqli_stmt_sqlstate
+        )
+
+    [276] => Array
+        (
+            [0] => xmlwriter_flush
+        )
+
+    [969] => Array
+        (
+            [0] => zip_open
+        )
+
+    [890] => Array
+        (
+            [0] => zip_entry_open
+            [1] => mysqli_poll
+        )
+
+    [1854] => Array
+        (
+            [0] => zip_entry_close
+            [1] => mysqli_bind_result
+        )
+
+    [644] => Array
+        (
+            [0] => zip_entry_read
+        )
+
+    [1115] => Array
+        (
+            [0] => zip_entry_compressionmethod
+            [1] => imagettftext
+        )
+
+    [1298] => Array
+        (
+            [0] => apc_clear_cache
+        )
+
+    [1701] => Array
+        (
+            [0] => apc_store
+        )
+
+    [1259] => Array
+        (
+            [0] => apc_delete
+            [1] => mysqli_get_warnings
+        )
+
+    [1823] => Array
+        (
+            [0] => apc_define_constants
+        )
+
+    [596] => Array
+        (
+            [0] => apc_load_constants
+            [1] => sqlite_libencoding
+        )
+
+    [594] => Array
+        (
+            [0] => apc_inc
+        )
+
+    [1572] => Array
+        (
+            [0] => apc_dec
+        )
+
+    [719] => Array
+        (
+            [0] => apc_cas
+        )
+
+    [1798] => Array
+        (
+            [0] => apc_bin_dump
+        )
+
+    [1072] => Array
+        (
+            [0] => apc_bin_load
+        )
+
+    [422] => Array
+        (
+            [0] => apc_bin_dumpfile
+        )
+
+    [976] => Array
+        (
+            [0] => apc_bin_loadfile
+        )
+
+    [824] => Array
+        (
+            [0] => apc_exists
+        )
+
+    [317] => Array
+        (
+            [0] => bzread
+        )
+
+    [1303] => Array
+        (
+            [0] => bzclose
+        )
+
+    [1485] => Array
+        (
+            [0] => bzcompress
+            [1] => mysqli_real_escape_string
+            [2] => openssl_seal
+        )
+
+    [526] => Array
+        (
+            [0] => curl_init
+        )
+
+    [695] => Array
+        (
+            [0] => curl_setopt_array
+        )
+
+    [159] => Array
+        (
+            [0] => curl_exec
+        )
+
+    [1542] => Array
+        (
+            [0] => curl_getinfo
+        )
+
+    [1060] => Array
+        (
+            [0] => curl_error
+        )
+
+    [1920] => Array
+        (
+            [0] => curl_errno
+            [1] => ftp_mdtm
+        )
+
+    [528] => Array
+        (
+            [0] => curl_close
+        )
+
+    [1944] => Array
+        (
+            [0] => curl_multi_init
+        )
+
+    [573] => Array
+        (
+            [0] => curl_multi_remove_handle
+        )
+
+    [868] => Array
+        (
+            [0] => curl_multi_select
+            [1] => mysql_error
+        )
+
+    [1577] => Array
+        (
+            [0] => curl_multi_exec
+        )
+
+    [218] => Array
+        (
+            [0] => curl_multi_close
+        )
+
+    [1560] => Array
+        (
+            [0] => ftp_connect
+        )
+
+    [167] => Array
+        (
+            [0] => ftp_login
+        )
+
+    [761] => Array
+        (
+            [0] => ftp_pwd
+        )
+
+    [1818] => Array
+        (
+            [0] => ftp_cdup
+        )
+
+    [728] => Array
+        (
+            [0] => ftp_chdir
+            [1] => ngettext
+        )
+
+    [152] => Array
+        (
+            [0] => ftp_raw
+        )
+
+    [677] => Array
+        (
+            [0] => ftp_mkdir
+        )
+
+    [505] => Array
+        (
+            [0] => ftp_chmod
+        )
+
+    [1743] => Array
+        (
+            [0] => ftp_systype
+        )
+
+    [270] => Array
+        (
+            [0] => ftp_get
+        )
+
+    [1453] => Array
+        (
+            [0] => ftp_fput
+        )
+
+    [233] => Array
+        (
+            [0] => ftp_size
+        )
+
+    [193] => Array
+        (
+            [0] => ftp_delete
+        )
+
+    [1891] => Array
+        (
+            [0] => ftp_site
+        )
+
+    [1926] => Array
+        (
+            [0] => ftp_get_option
+        )
+
+    [451] => Array
+        (
+            [0] => ftp_nb_fget
+        )
+
+    [701] => Array
+        (
+            [0] => ftp_nb_get
+        )
+
+    [1340] => Array
+        (
+            [0] => ftp_nb_fput
+        )
+
+    [1553] => Array
+        (
+            [0] => ftp_quit
+            [1] => imap_rfc822_write_address
+        )
+
+    [1110] => Array
+        (
+            [0] => imageellipse
+        )
+
+    [1003] => Array
+        (
+            [0] => imagecharup
+        )
+
+    [1287] => Array
+        (
+            [0] => imagecreatefromstring
+        )
+
+    [1380] => Array
+        (
+            [0] => imagecolorclosest
+            [1] => mysqli_insert_id
+        )
+
+    [293] => Array
+        (
+            [0] => imagecolorclosesthwb
+        )
+
+    [373] => Array
+        (
+            [0] => imagecolordeallocate
+        )
+
+    [1863] => Array
+        (
+            [0] => imagecolorresolve
+        )
+
+    [476] => Array
+        (
+            [0] => imagecolorexact
+        )
+
+    [2030] => Array
+        (
+            [0] => imagefilledarc
+            [1] => mysql_list_dbs
+            [2] => snmp_set_enum_print
+        )
+
+    [294] => Array
+        (
+            [0] => imagefilledellipse
+        )
+
+    [881] => Array
+        (
+            [0] => imagealphablending
+        )
+
+    [1661] => Array
+        (
+            [0] => imagesavealpha
+        )
+
+    [170] => Array
+        (
+            [0] => imagecolorclosestalpha
+        )
+
+    [279] => Array
+        (
+            [0] => imagerotate
+        )
+
+    [1410] => Array
+        (
+            [0] => imagesettile
+        )
+
+    [1880] => Array
+        (
+            [0] => imagesetbrush
+        )
+
+    [1637] => Array
+        (
+            [0] => imagesetstyle
+            [1] => mysqli_fetch_assoc
+        )
+
+    [1173] => Array
+        (
+            [0] => imagecreatefrompng
+            [1] => mysqli_stmt_store_result
+            [2] => mysqli_send_long_data
+        )
+
+    [1990] => Array
+        (
+            [0] => imagecreatefromgif
+        )
+
+    [438] => Array
+        (
+            [0] => imagecreatefromjpeg
+            [1] => mysql_affected_rows
+        )
+
+    [1574] => Array
+        (
+            [0] => imagecreatefromwbmp
+            [1] => mysql_fieldtable
+        )
+
+    [1367] => Array
+        (
+            [0] => imagecreatefromxbm
+        )
+
+    [229] => Array
+        (
+            [0] => imagecreatefromxpm
+        )
+
+    [973] => Array
+        (
+            [0] => imagecreatefromgd2
+        )
+
+    [1101] => Array
+        (
+            [0] => imagepng
+        )
+
+    [1918] => Array
+        (
+            [0] => imagegif
+        )
+
+    [110] => Array
+        (
+            [0] => imagejpeg
+        )
+
+    [901] => Array
+        (
+            [0] => imagegd2
+        )
+
+    [626] => Array
+        (
+            [0] => imagedestroy
+        )
+
+    [1437] => Array
+        (
+            [0] => imagegammacorrect
+        )
+
+    [1583] => Array
+        (
+            [0] => imagefill
+        )
+
+    [1504] => Array
+        (
+            [0] => imagefilledpolygon
+        )
+
+    [656] => Array
+        (
+            [0] => imagefilltoborder
+            [1] => mysqli_fetch_field
+        )
+
+    [479] => Array
+        (
+            [0] => imagefontwidth
+        )
+
+    [703] => Array
+        (
+            [0] => imageinterlace
+        )
+
+    [208] => Array
+        (
+            [0] => imageline
+        )
+
+    [272] => Array
+        (
+            [0] => imagepolygon
+        )
+
+    [1821] => Array
+        (
+            [0] => imagerectangle
+            [1] => openssl_pkcs12_export
+        )
+
+    [1444] => Array
+        (
+            [0] => imagestringup
+        )
+
+    [1107] => Array
+        (
+            [0] => imagesx
+        )
+
+    [1140] => Array
+        (
+            [0] => imagesy
+            [1] => imap_header
+        )
+
+    [1945] => Array
+        (
+            [0] => imagedashedline
+        )
+
+    [1959] => Array
+        (
+            [0] => imagefttext
+        )
+
+    [1917] => Array
+        (
+            [0] => imagetypes
+        )
+
+    [1139] => Array
+        (
+            [0] => jpeg2wbmp
+        )
+
+    [1042] => Array
+        (
+            [0] => png2wbmp
+        )
+
+    [1906] => Array
+        (
+            [0] => imagelayereffect
+        )
+
+    [1295] => Array
+        (
+            [0] => imagexbm
+            [1] => tidy_get_head
+        )
+
+    [1268] => Array
+        (
+            [0] => imagecolormatch
+            [1] => mcrypt_module_is_block_algorithm
+        )
+
+    [970] => Array
+        (
+            [0] => gettext
+        )
+
+    [1668] => Array
+        (
+            [0] => _
+        )
+
+    [206] => Array
+        (
+            [0] => dgettext
+        )
+
+    [63] => Array
+        (
+            [0] => bindtextdomain
+            [1] => mysql_field_type
+            [2] => mysqli_report
+        )
+
+    [92] => Array
+        (
+            [0] => dngettext
+        )
+
+    [388] => Array
+        (
+            [0] => bind_textdomain_codeset
+        )
+
+    [433] => Array
+        (
+            [0] => ob_iconv_handler
+        )
+
+    [501] => Array
+        (
+            [0] => iconv_set_encoding
+        )
+
+    [699] => Array
+        (
+            [0] => iconv_strlen
+        )
+
+    [1902] => Array
+        (
+            [0] => iconv_strpos
+        )
+
+    [1112] => Array
+        (
+            [0] => iconv_mime_encode
+        )
+
+    [494] => Array
+        (
+            [0] => iconv_mime_decode
+        )
+
+    [73] => Array
+        (
+            [0] => iconv_mime_decode_headers
+        )
+
+    [1130] => Array
+        (
+            [0] => idn_to_ascii
+            [1] => tidy_is_xml
+        )
+
+    [936] => Array
+        (
+            [0] => idn_to_utf8
+        )
+
+    [1812] => Array
+        (
+            [0] => imap_reopen
+        )
+
+    [942] => Array
+        (
+            [0] => imap_rfc822_parse_adrlist
+        )
+
+    [1305] => Array
+        (
+            [0] => imap_body
+        )
+
+    [1374] => Array
+        (
+            [0] => imap_bodystruct
+        )
+
+    [1667] => Array
+        (
+            [0] => imap_fetchbody
+        )
+
+    [1405] => Array
+        (
+            [0] => imap_fetchmime
+        )
+
+    [94] => Array
+        (
+            [0] => imap_fetchheader
+        )
+
+    [1254] => Array
+        (
+            [0] => imap_fetchstructure
+        )
+
+    [213] => Array
+        (
+            [0] => imap_gc
+            [1] => mysql_numrows
+        )
+
+    [1607] => Array
+        (
+            [0] => imap_expunge
+        )
+
+    [1633] => Array
+        (
+            [0] => imap_undelete
+            [1] => mysqli_warning_count
+        )
+
+    [204] => Array
+        (
+            [0] => imap_listscan
+            [1] => mysqli_get_client_info
+        )
+
+    [1384] => Array
+        (
+            [0] => imap_mail_copy
+        )
+
+    [356] => Array
+        (
+            [0] => imap_mail_move
+        )
+
+    [1323] => Array
+        (
+            [0] => imap_createmailbox
+        )
+
+    [655] => Array
+        (
+            [0] => imap_renamemailbox
+            [1] => ldap_connect
+        )
+
+    [1514] => Array
+        (
+            [0] => imap_deletemailbox
+            [1] => mysqli_debug
+        )
+
+    [1808] => Array
+        (
+            [0] => imap_unsubscribe
+        )
+
+    [537] => Array
+        (
+            [0] => imap_ping
+        )
+
+    [752] => Array
+        (
+            [0] => imap_base64
+            [1] => imap_scan
+        )
+
+    [809] => Array
+        (
+            [0] => imap_qprint
+        )
+
+    [930] => Array
+        (
+            [0] => imap_8bit
+            [1] => openssl_pkey_export
+        )
+
+    [1040] => Array
+        (
+            [0] => imap_binary
+        )
+
+    [1135] => Array
+        (
+            [0] => imap_status
+        )
+
+    [163] => Array
+        (
+            [0] => imap_setflag_full
+        )
+
+    [147] => Array
+        (
+            [0] => imap_sort
+        )
+
+    [1799] => Array
+        (
+            [0] => imap_list
+        )
+
+    [257] => Array
+        (
+            [0] => imap_lsub
+        )
+
+    [427] => Array
+        (
+            [0] => imap_fetch_overview
+        )
+
+    [1672] => Array
+        (
+            [0] => imap_errors
+            [1] => mysqli_select_db
+        )
+
+    [1512] => Array
+        (
+            [0] => imap_last_error
+        )
+
+    [52] => Array
+        (
+            [0] => imap_utf7_decode
+            [1] => mysql_pconnect
+        )
+
+    [670] => Array
+        (
+            [0] => imap_utf7_encode
+            [1] => xdebug_get_headers
+        )
+
+    [1350] => Array
+        (
+            [0] => imap_mutf7_to_utf8
+        )
+
+    [414] => Array
+        (
+            [0] => imap_mime_header_decode
+        )
+
+    [387] => Array
+        (
+            [0] => imap_thread
+            [1] => mysqli_fetch_object
+        )
+
+    [1236] => Array
+        (
+            [0] => imap_get_quota
+        )
+
+    [1400] => Array
+        (
+            [0] => imap_get_quotaroot
+        )
+
+    [999] => Array
+        (
+            [0] => imap_setacl
+        )
+
+    [731] => Array
+        (
+            [0] => imap_getacl
+        )
+
+    [238] => Array
+        (
+            [0] => imap_mail
+        )
+
+    [1875] => Array
+        (
+            [0] => imap_listmailbox
+        )
+
+    [239] => Array
+        (
+            [0] => imap_getmailboxes
+        )
+
+    [796] => Array
+        (
+            [0] => imap_scanmailbox
+        )
+
+    [849] => Array
+        (
+            [0] => imap_getsubscribed
+        )
+
+    [58] => Array
+        (
+            [0] => imap_fetchtext
+        )
+
+    [1282] => Array
+        (
+            [0] => ldap_bind
+            [1] => mysql_get_host_info
+        )
+
+    [933] => Array
+        (
+            [0] => ldap_unbind
+        )
+
+    [353] => Array
+        (
+            [0] => ldap_list
+        )
+
+    [1029] => Array
+        (
+            [0] => ldap_free_result
+        )
+
+    [199] => Array
+        (
+            [0] => ldap_count_entries
+        )
+
+    [222] => Array
+        (
+            [0] => ldap_first_entry
+            [1] => mcrypt_decrypt
+        )
+
+    [1077] => Array
+        (
+            [0] => ldap_next_entry
+        )
+
+    [896] => Array
+        (
+            [0] => ldap_first_attribute
+        )
+
+    [599] => Array
+        (
+            [0] => ldap_next_attribute
+        )
+
+    [331] => Array
+        (
+            [0] => ldap_get_attributes
+        )
+
+    [434] => Array
+        (
+            [0] => ldap_get_values_len
+        )
+
+    [327] => Array
+        (
+            [0] => ldap_explode_dn
+        )
+
+    [1650] => Array
+        (
+            [0] => ldap_dn2ufn
+        )
+
+    [366] => Array
+        (
+            [0] => ldap_add
+            [1] => mysqli_use_result
+        )
+
+    [1081] => Array
+        (
+            [0] => ldap_err2str
+        )
+
+    [1868] => Array
+        (
+            [0] => ldap_compare
+        )
+
+    [749] => Array
+        (
+            [0] => ldap_sort
+            [1] => mysql_listfields
+        )
+
+    [1181] => Array
+        (
+            [0] => ldap_get_option
+        )
+
+    [937] => Array
+        (
+            [0] => ldap_set_option
+        )
+
+    [1170] => Array
+        (
+            [0] => ldap_next_reference
+        )
+
+    [462] => Array
+        (
+            [0] => ldap_parse_reference
+        )
+
+    [1534] => Array
+        (
+            [0] => ldap_parse_result
+        )
+
+    [1645] => Array
+        (
+            [0] => mcrypt_ecb
+        )
+
+    [1413] => Array
+        (
+            [0] => mcrypt_get_key_size
+        )
+
+    [957] => Array
+        (
+            [0] => mcrypt_get_cipher_name
+            [1] => sqlite_escape_string
+        )
+
+    [920] => Array
+        (
+            [0] => mcrypt_list_algorithms
+        )
+
+    [307] => Array
+        (
+            [0] => mcrypt_generic_init
+        )
+
+    [320] => Array
+        (
+            [0] => mcrypt_generic
+            [1] => mysql_db_name
+        )
+
+    [1737] => Array
+        (
+            [0] => mdecrypt_generic
+        )
+
+    [2012] => Array
+        (
+            [0] => mcrypt_generic_deinit
+        )
+
+    [1889] => Array
+        (
+            [0] => mcrypt_enc_self_test
+        )
+
+    [466] => Array
+        (
+            [0] => mcrypt_enc_get_supported_key_sizes
+        )
+
+    [1393] => Array
+        (
+            [0] => mcrypt_enc_get_algorithms_name
+        )
+
+    [1999] => Array
+        (
+            [0] => mcrypt_enc_get_modes_name
+        )
+
+    [177] => Array
+        (
+            [0] => mcrypt_module_self_test
+        )
+
+    [1176] => Array
+        (
+            [0] => mcrypt_module_is_block_algorithm_mode
+        )
+
+    [786] => Array
+        (
+            [0] => mcrypt_module_is_block_mode
+        )
+
+    [974] => Array
+        (
+            [0] => mcrypt_module_get_algo_block_size
+        )
+
+    [268] => Array
+        (
+            [0] => mcrypt_module_get_algo_key_size
+        )
+
+    [1826] => Array
+        (
+            [0] => mcrypt_module_get_supported_key_sizes
+        )
+
+    [510] => Array
+        (
+            [0] => mcrypt_module_close
+        )
+
+    [566] => Array
+        (
+            [0] => memcache_add_server
+        )
+
+    [1744] => Array
+        (
+            [0] => memcache_get_server_status
+        )
+
+    [1536] => Array
+        (
+            [0] => memcache_add
+            [1] => tidy_repair_file
+        )
+
+    [803] => Array
+        (
+            [0] => memcache_set
+        )
+
+    [1683] => Array
+        (
+            [0] => memcache_replace
+            [1] => tidy_get_config
+        )
+
+    [1006] => Array
+        (
+            [0] => memcache_cas
+        )
+
+    [1711] => Array
+        (
+            [0] => memcache_append
+            [1] => mysqli_kill
+        )
+
+    [1687] => Array
+        (
+            [0] => memcache_get
+        )
+
+    [1861] => Array
+        (
+            [0] => memcache_get_stats
+        )
+
+    [1468] => Array
+        (
+            [0] => memcache_increment
+        )
+
+    [429] => Array
+        (
+            [0] => memcache_close
+        )
+
+    [1156] => Array
+        (
+            [0] => mysql_connect
+            [1] => sqlite_column
+        )
+
+    [368] => Array
+        (
+            [0] => mysql_list_tables
+        )
+
+    [300] => Array
+        (
+            [0] => mysql_list_fields
+        )
+
+    [1728] => Array
+        (
+            [0] => mysql_errno
+        )
+
+    [1664] => Array
+        (
+            [0] => mysql_num_fields
+            [1] => mysqli_get_connection_stats
+            [2] => import_request_variables
+        )
+
+    [1634] => Array
+        (
+            [0] => mysql_fetch_array
+        )
+
+    [1020] => Array
+        (
+            [0] => mysql_fetch_assoc
+        )
+
+    [506] => Array
+        (
+            [0] => mysql_fetch_object
+        )
+
+    [1563] => Array
+        (
+            [0] => mysql_data_seek
+        )
+
+    [664] => Array
+        (
+            [0] => mysql_fetch_lengths
+        )
+
+    [39] => Array
+        (
+            [0] => mysql_fetch_field
+        )
+
+    [122] => Array
+        (
+            [0] => mysql_free_result
+        )
+
+    [389] => Array
+        (
+            [0] => mysql_field_table
+        )
+
+    [1642] => Array
+        (
+            [0] => mysql_field_flags
+        )
+
+    [865] => Array
+        (
+            [0] => mysql_escape_string
+        )
+
+    [2046] => Array
+        (
+            [0] => mysql_thread_id
+        )
+
+    [1407] => Array
+        (
+            [0] => mysql_client_encoding
+            [1] => xdebug_start_trace
+        )
+
+    [483] => Array
+        (
+            [0] => mysql_get_client_info
+        )
+
+    [251] => Array
+        (
+            [0] => mysql_get_server_info
+        )
+
+    [998] => Array
+        (
+            [0] => mysql_info
+        )
+
+    [1147] => Array
+        (
+            [0] => mysql
+        )
+
+    [991] => Array
+        (
+            [0] => mysql_fieldname
+        )
+
+    [1021] => Array
+        (
+            [0] => mysql_fieldlen
+        )
+
+    [779] => Array
+        (
+            [0] => mysql_fieldflags
+        )
+
+    [1403] => Array
+        (
+            [0] => mysql_freeresult
+        )
+
+    [817] => Array
+        (
+            [0] => mysql_listtables
+        )
+
+    [1443] => Array
+        (
+            [0] => mysql_tablename
+        )
+
+    [418] => Array
+        (
+            [0] => mysql_table_name
+        )
+
+    [615] => Array
+        (
+            [0] => mysqli_change_user
+        )
+
+    [1435] => Array
+        (
+            [0] => mysqli_character_set_name
+        )
+
+    [249] => Array
+        (
+            [0] => mysqli_close
+        )
+
+    [580] => Array
+        (
+            [0] => mysqli_data_seek
+        )
+
+    [1641] => Array
+        (
+            [0] => mysqli_errno
+        )
+
+    [54] => Array
+        (
+            [0] => mysqli_execute
+        )
+
+    [517] => Array
+        (
+            [0] => mysqli_fetch_all
+        )
+
+    [203] => Array
+        (
+            [0] => mysqli_fetch_array
+        )
+
+    [1519] => Array
+        (
+            [0] => mysqli_field_count
+        )
+
+    [739] => Array
+        (
+            [0] => mysqli_free_result
+        )
+
+    [1446] => Array
+        (
+            [0] => mysqli_get_client_version
+        )
+
+    [1451] => Array
+        (
+            [0] => mysqli_get_host_info
+        )
+
+    [705] => Array
+        (
+            [0] => mysqli_get_proto_info
+        )
+
+    [2020] => Array
+        (
+            [0] => mysqli_get_server_info
+        )
+
+    [1470] => Array
+        (
+            [0] => mysqli_get_server_version
+            [1] => sha256
+        )
+
+    [623] => Array
+        (
+            [0] => mysqli_info
+        )
+
+    [1223] => Array
+        (
+            [0] => mysqli_more_results
+        )
+
+    [221] => Array
+        (
+            [0] => mysqli_num_rows
+        )
+
+    [1391] => Array
+        (
+            [0] => mysqli_options
+        )
+
+    [273] => Array
+        (
+            [0] => mysqli_ping
+        )
+
+    [2002] => Array
+        (
+            [0] => mysqli_prepare
+        )
+
+    [217] => Array
+        (
+            [0] => mysqli_query
+        )
+
+    [1520] => Array
+        (
+            [0] => mysqli_real_connect
+        )
+
+    [1948] => Array
+        (
+            [0] => mysqli_real_query
+            [1] => tidy_warning_count
+        )
+
+    [472] => Array
+        (
+            [0] => mysqli_set_charset
+        )
+
+    [358] => Array
+        (
+            [0] => mysqli_stmt_affected_rows
+        )
+
+    [133] => Array
+        (
+            [0] => mysqli_stmt_bind_result
+            [1] => openssl_pkey_get_details
+        )
+
+    [1483] => Array
+        (
+            [0] => mysqli_stmt_data_seek
+        )
+
+    [404] => Array
+        (
+            [0] => mysqli_stmt_fetch
+        )
+
+    [1846] => Array
+        (
+            [0] => mysqli_stmt_field_count
+        )
+
+    [1810] => Array
+        (
+            [0] => mysqli_stmt_get_warnings
+        )
+
+    [766] => Array
+        (
+            [0] => mysqli_stmt_init
+        )
+
+    [1774] => Array
+        (
+            [0] => mysqli_stmt_more_results
+            [1] => tidy_get_output
+        )
+
+    [1924] => Array
+        (
+            [0] => mysqli_stmt_num_rows
+        )
+
+    [1433] => Array
+        (
+            [0] => mysqli_stmt_prepare
+        )
+
+    [1741] => Array
+        (
+            [0] => mysqli_stmt_reset
+        )
+
+    [137] => Array
+        (
+            [0] => mysqli_stmt_result_metadata
+        )
+
+    [1876] => Array
+        (
+            [0] => mysqli_sqlstate
+        )
+
+    [1311] => Array
+        (
+            [0] => mysqli_stat
+        )
+
+    [1063] => Array
+        (
+            [0] => mysqli_thread_id
+        )
+
+    [185] => Array
+        (
+            [0] => mysqli_thread_safe
+        )
+
+    [397] => Array
+        (
+            [0] => mysqli_fetch
+            [1] => sqlite_single_query
+        )
+
+    [316] => Array
+        (
+            [0] => mysqli_param_count
+        )
+
+    [323] => Array
+        (
+            [0] => mysqli_get_metadata
+        )
+
+    [65] => Array
+        (
+            [0] => mysqli_set_opt
+        )
+
+    [74] => Array
+        (
+            [0] => openssl_pkey_new
+        )
+
+    [442] => Array
+        (
+            [0] => openssl_pkey_get_private
+        )
+
+    [1759] => Array
+        (
+            [0] => openssl_x509_free
+            [1] => openssl_x509_export
+        )
+
+    [189] => Array
+        (
+            [0] => openssl_x509_check_private_key
+        )
+
+    [919] => Array
+        (
+            [0] => openssl_pkcs12_read
+        )
+
+    [1777] => Array
+        (
+            [0] => openssl_csr_export
+        )
+
+    [82] => Array
+        (
+            [0] => openssl_csr_export_to_file
+        )
+
+    [1224] => Array
+        (
+            [0] => openssl_digest
+        )
+
+    [1709] => Array
+        (
+            [0] => openssl_encrypt
+        )
+
+    [898] => Array
+        (
+            [0] => openssl_cipher_iv_length
+        )
+
+    [281] => Array
+        (
+            [0] => openssl_sign
+        )
+
+    [61] => Array
+        (
+            [0] => openssl_verify
+        )
+
+    [1338] => Array
+        (
+            [0] => openssl_open
+            [1] => sqlite_field_name
+        )
+
+    [650] => Array
+        (
+            [0] => openssl_pkcs7_decrypt
+        )
+
+    [512] => Array
+        (
+            [0] => openssl_pkcs7_sign
+        )
+
+    [637] => Array
+        (
+            [0] => openssl_private_decrypt
+        )
+
+    [1995] => Array
+        (
+            [0] => openssl_public_encrypt
+        )
+
+    [43] => Array
+        (
+            [0] => openssl_get_md_methods
+        )
+
+    [1525] => Array
+        (
+            [0] => openssl_get_cipher_methods
+        )
+
+    [856] => Array
+        (
+            [0] => openssl_dh_compute_key
+        )
+
+    [830] => Array
+        (
+            [0] => openssl_random_pseudo_bytes
+        )
+
+    [834] => Array
+        (
+            [0] => snmpgetnext
+        )
+
+    [338] => Array
+        (
+            [0] => snmpwalk
+        )
+
+    [362] => Array
+        (
+            [0] => snmp_get_quick_print
+        )
+
+    [1153] => Array
+        (
+            [0] => snmp_set_oid_output_format
+        )
+
+    [1447] => Array
+        (
+            [0] => snmp_set_oid_numeric_print
+        )
+
+    [1839] => Array
+        (
+            [0] => snmpset
+        )
+
+    [1716] => Array
+        (
+            [0] => snmp2_get
+        )
+
+    [2003] => Array
+        (
+            [0] => snmp2_getnext
+        )
+
+    [1923] => Array
+        (
+            [0] => snmp2_walk
+        )
+
+    [134] => Array
+        (
+            [0] => snmp2_real_walk
+        )
+
+    [1877] => Array
+        (
+            [0] => snmp3_get
+        )
+
+    [993] => Array
+        (
+            [0] => snmp3_set
+        )
+
+    [440] => Array
+        (
+            [0] => snmp_set_valueretrieval
+        )
+
+    [53] => Array
+        (
+            [0] => snmp_read_mib
+        )
+
+    [1452] => Array
+        (
+            [0] => sqlite_close
+        )
+
+    [56] => Array
+        (
+            [0] => sqlite_fetch_all
+        )
+
+    [627] => Array
+        (
+            [0] => sqlite_libversion
+        )
+
+    [1935] => Array
+        (
+            [0] => sqlite_changes
+        )
+
+    [1122] => Array
+        (
+            [0] => sqlite_last_insert_rowid
+        )
+
+    [1438] => Array
+        (
+            [0] => sqlite_seek
+        )
+
+    [1651] => Array
+        (
+            [0] => sqlite_prev
+        )
+
+    [398] => Array
+        (
+            [0] => sqlite_has_prev
+        )
+
+    [31] => Array
+        (
+            [0] => sqlite_busy_timeout
+        )
+
+    [883] => Array
+        (
+            [0] => sqlite_last_error
+        )
+
+    [342] => Array
+        (
+            [0] => sqlite_error_string
+        )
+
+    [1457] => Array
+        (
+            [0] => sqlite_unbuffered_query
+            [1] => xdebug_get_declared_vars
+        )
+
+    [1936] => Array
+        (
+            [0] => sqlite_create_aggregate
+        )
+
+    [1102] => Array
+        (
+            [0] => sqlite_factory
+        )
+
+    [1414] => Array
+        (
+            [0] => sqlite_udf_encode_binary
+        )
+
+    [1628] => Array
+        (
+            [0] => sqlite_udf_decode_binary
+        )
+
+    [1281] => Array
+        (
+            [0] => sqlite_fetch_column_types
+        )
+
+    [747] => Array
+        (
+            [0] => suhosin_encrypt_cookie
+        )
+
+    [1647] => Array
+        (
+            [0] => tidy_parse_string
+        )
+
+    [99] => Array
+        (
+            [0] => tidy_clean_repair
+        )
+
+    [968] => Array
+        (
+            [0] => tidy_diagnose
+        )
+
+    [289] => Array
+        (
+            [0] => tidy_get_status
+        )
+
+    [1104] => Array
+        (
+            [0] => tidy_error_count
+        )
+
+    [124] => Array
+        (
+            [0] => tidy_config_count
+        )
+
+    [357] => Array
+        (
+            [0] => tidy_get_opt_doc
+        )
+
+    [897] => Array
+        (
+            [0] => tidy_get_root
+        )
+
+    [1773] => Array
+        (
+            [0] => ob_tidyhandler
+        )
+
+    [1476] => Array
+        (
+            [0] => zend_hash_func
+        )
+
+    [2013] => Array
+        (
+            [0] => sha256_file
+        )
+
+    [292] => Array
+        (
+            [0] => xdebug_call_function
+        )
+
+    [1606] => Array
+        (
+            [0] => xdebug_call_line
+        )
+
+    [1985] => Array
+        (
+            [0] => xdebug_var_dump
+        )
+
+    [262] => Array
+        (
+            [0] => xdebug_debug_zval
+        )
+
+    [1162] => Array
+        (
+            [0] => xdebug_enable
+        )
+
+    [40] => Array
+        (
+            [0] => xdebug_break
+        )
+
+    [1079] => Array
+        (
+            [0] => xdebug_stop_trace
+        )
+
+    [465] => Array
+        (
+            [0] => xdebug_get_tracefile_name
+        )
+
+    [652] => Array
+        (
+            [0] => xdebug_clear_aggr_profiling_data
+        )
+
+    [16] => Array
+        (
+            [0] => xdebug_memory_usage
+        )
+
+    [1477] => Array
+        (
+            [0] => xdebug_start_error_collection
+        )
+
+    [1805] => Array
+        (
+            [0] => xdebug_get_collected_errors
+        )
+
+    [1419] => Array
+        (
+            [0] => xdebug_dump_superglobals
+        )
+
+)

@@ -9,6 +9,8 @@ Be aware that the results shown by the sample script htmask.php are "wrong".
 The sample works on a copy of the function table. This might have a
 different table mask.
 
+In htmask.output.txt a sample output of the script is provided.
+
 A video recording of this talk can be watched on
 http://www.youtube.com/watch?v=bxxIXPc9IR8
 
